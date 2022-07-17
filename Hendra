@@ -1,6 +1,4 @@
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
-
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="Lokal",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -29,4 +27,105 @@ http://210.210.155.35/session/739816c2-dfd9-11ec-b03a-b82a72d63267/qwr9ew/s/s03/
 #EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal", ANTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tv
+#EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal", ANTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal", ANTV
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://thumbor.prod.vid.id/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" group-title="Lokal",NET
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://thumbor.prod.vid.id/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" group-title="Lokal",NET
+http://bravo.kugo.id:1935/nettv/udp.stream/chunklist_w2049363898.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Lokal",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1119251756_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Lokal",Trans TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Lokal",Trans 7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Lokal",Trans 7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Lokal",METRO TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://thumbor.prod.vid.id/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="Lokal",KOMPAS TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://thumbor.prod.vid.id/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" group-title="Lokal",TV ONE
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://thumbor.prod.vid.id/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="Lokal",TVRI Nasional
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="Spacetoon.id" tvg-logo="https://i.ibb.co/7YR5d5s/unnamed-1-modified.png" group-title="Lokal",Spacetoon
+http://bravo.kugo.id:1935/spacetoon/udp.stream/chunklist_w605308869.m3u8
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="Lokal",O Channel
+http://rr2.dens.tv/s/s41/02.m3u8
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="Lokal",O Channel
+http://rr2.dens.tv/s/s41/02.m3u8
+
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://thumbor.prod.vid.id/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="Lokal",RTV
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/05.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.ibb.co/c3dqtrG/Logo-CNN-Indonesia-Peta-Indonesia-modified.png" group-title="Lokal",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1907804209_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.ibb.co/gDTVjwv/unnamed-modified-1.png" group-title="Lokal",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1318224863_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="INews.id" tvg-logo="https://i.ibb.co/Z8zTYMd/62550521-2221755784545427-6717567406312521728-n-modified.png" group-title="Lokal",INews
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+
+#EXTINF:-1 tvg-id="IDXChannel.id" tvg-logo="https://i.ibb.co/NT5hpG7/unnamed-5-modified.png" group-title="Lokal",IDX Channel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://thumbor.prod.vid.id/VINj_3q2aKJhsC7_YVdZWmWbjYY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/4221bc.png" group-title="Lokal",Berita Satu News Channel
+https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
+
+#EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Mm-q_EM4-t_oqza3f7Wm0tV_mDU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6838/eab36f.png" group-title="Lokal",TV Edukasi
+http://118.98.229.118:1935/live/tve.stream/chunklist_w1225135328.m3u8
+
+#EXTINF:-1 tvg-id="DaAiTVIndonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="Lokal",DAAI TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/chunklist_b4628000.m3u8?p=79&s=1653916691&e=1653916811&h=1879f03e91e0a4f37e400d7c7fdae1fc
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.ibb.co/0MSdf50/bfecbc-modified.png" group-title="Lokal",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Magna.id" tvg-logo="https://i.ibb.co/pZWS87T/7d6bf5-modified.png" group-title="Lokal",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w569328975_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tcpp1x4/rri-net-modified.png" group-title="Lokal",RRI NET
+https://cdnrrinet.rri.co.id/rrinet/live/chunklist_w1191992214.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0yw3hNY/unnamed-2-modified.png" group-title="Lokal",The Indonesia Channel
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/zjh5tjvs/2728/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2drDZ9/download-1-modified.png" group-title="Lokal",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w852267044.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHr0k6T/2019-09-30-09-47-24-cdv-photo-003-modified.png" group-title="Lokal",Elshinta TV
+http://rr2.dens.tv/s/s10/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X8YyGfH/Inspira-TV-live-streaming-modified.png" group-title="Lokal",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k162Wmg/antara-tv-200x200-modified.png" group-title="Lokal",Antara TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xqSG154/Indonesiana-TV-1-modified.png" group-title="Lokal",Indonesiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8xsysDD/unnamed-15-modified.png" group-title="Lokal",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QnX1FJ1/Logo-JPM-Jawapos-modified.png" group-title="Lokal",JPM TV
+http://122.248.43.138:1935/ch6/myStream/chunklist_w503404370.m3u8
