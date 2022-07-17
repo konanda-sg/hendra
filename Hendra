@@ -158,7 +158,7 @@ http://122.248.43.138:1935/ch6/myStream/chunklist_w503404370.m3u8
 
 ----------  Religi  -----------
 
-#EXTINF:-100 group-title="Relgi" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV
+#EXTINF:-100 group-title="Religi" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV
 https://h1.intechmedia.net/intech/ch6.m3u8
 
 #EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV ACEH
@@ -170,7 +170,7 @@ https://h1.intechmedia.net/intech/ch27.m3u8
 #EXTINF:-100 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 https://h1.intechmedia.net/intech/ch26.m3u8
 
-#EXTINF:-100 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV (Backup)
+#EXTINF:-100 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV (Backup)
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
 #EXTINF:-101 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
@@ -182,7 +182,7 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-103 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
 
-#EXTINF:-103 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV (Backup)
+#EXTINF:-103 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV (Backup)
 http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
 
 #EXTINF:-104 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
@@ -191,7 +191,7 @@ https://h1.intechmedia.net/intech/ch2.m3u8
 #EXTINF:-105 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
 https://h1.intechmedia.net/intech/ch9.m3u8
 
-#EXTINF:-105 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV (Backup)
+#EXTINF:-105 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV (Backup)
 http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
 
 #EXTINF:-106 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",INSAN TV
@@ -212,11 +212,10 @@ https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-111 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",NIAGA TV
 https://h1.intechmedia.net/intech/ch10.m3u8
 
-
 #EXTINF:-113 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
 https://h1.intechmedia.net/intech/ch7.m3u8
 
-#EXTINF:-113 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV (Backup)
+#EXTINF:-113 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV (Backup)
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #EXTINF:-114 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
@@ -234,7 +233,7 @@ https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 #EXTINF:-115 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png",HIDAYAH TV
 https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
 
-#EXTINF:-116 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
+#EXTINF:-116 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
