@@ -300,6 +300,18 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.ibb.co/j6TqzY2/Desain-tanpa-judul-22-modified.png" group-title="Anak² & Kartun",Nick Jr Dora
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/nick.m3u8
 
+#EXTINF:-1 group-title="Anak² & Kartun",Disney Jr
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+
+#EXTINF:-1 group-title="Anak² & Kartun",HappyKids
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+
+#EXTINF:-1 group-title="Anak² & Kartun",HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1  group-title="Anak² & Kartun",Kidsflix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zrWBQrN/Desain-tanpa-judul-21-modified.png" group-title="Anak² & Kartun",Biznet Kids
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/biznetkids.m3u8
 
