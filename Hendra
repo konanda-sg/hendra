@@ -379,6 +379,21 @@ https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pXx10Fh/61-QX-Nx-Khe-L-SL1027-modified.png" group-title="Anak² & Kartun",Tom and Jerry
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/tom.m3u8
 
+#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/W3qp3X79/logo-dreamworks-big1.png",DreamWorks
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Anak² & Kartun",KIDS MOVIE CLUB
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e39ba5-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e029d0-007c-4513-a784-dd479e643365&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU",Super Toons TV
+https://tinyurl.com/SuperToons
+
+#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjExa6sv41hP06KRDX20tOK93feiZGKISmA&usqp=CAU",TOON GOOGLES
+https://tinyurl.com/TiviMe-ToonGoogles
+
+#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU",YAAAS!
+https://tinyurl.com/TiviMe-YAAAS
+
 
 -------- Movie ------
 
