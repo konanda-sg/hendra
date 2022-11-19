@@ -113,7 +113,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://thumbor.prod.vid.id/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="Lokal",TVRI Nasional
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
 
 #EXTINF:-1 tvg-id="Spacetoon.id" tvg-logo="https://i.ibb.co/7YR5d5s/unnamed-1-modified.png" group-title="Lokal",Spacetoon
 http://bravo.kugo.id:1935/spacetoon/udp.stream/chunklist_w605308869.m3u8
@@ -195,10 +195,13 @@ http://122.248.43.138:1935/ch6/myStream/chunklist_w503404370.m3u8
 #EXTINF:-100 group-title="Religi" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV
 https://h1.intechmedia.net/intech/ch6.m3u8
 
+#EXTINF:-100 group-title="Religi" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV 1
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/RasyaadTvLiveStreaming/live
+
 #EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV ACEH
 https://h1.intechmedia.net/intech/ch23.m3u8
 
-#EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV ACEH
+#EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV 1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
 
 #EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
@@ -209,6 +212,9 @@ https://h1.intechmedia.net/intech/ch26.m3u8
 
 #EXTINF:-100 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV (Backup)
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
+#EXTINF:-100 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV (Backup 1)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
 #EXTINF:-101 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
