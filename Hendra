@@ -355,120 +355,81 @@ https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="boomerangSouthEastAsia.us" tvg-name="boomerang" tvg-logo="https://s.id/1dRN3" group-title="Kids",BOOMERANG
 https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-#EXTM3U
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU",Super Toons TV
+https://tinyurl.com/SuperToons
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjExa6sv41hP06KRDX20tOK93feiZGKISmA&usqp=CAU",TOON GOOGLES
+https://tinyurl.com/TiviMe-ToonGoogles
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU",YAAAS!
+https://tinyurl.com/TiviMe-YAAAS
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png",Baby TV Asia
-https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg",Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png",CBeebies
-https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg",Miao Mi
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr
-https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/GFmh7Wm/20220530-141531.jpg" group-title="Anak² & Kartun", My Kids
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/GFmh7Wm/20220530-141531.jpg" group-title="Kids", My Kids
 http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/800px-Spacetoon.png" group-title="Anak² & Kartun",Spacetoon
-http://bravo.kugo.id:1935/spacetoon/udp.stream/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.awn.com/sites/default/files/styles/original/public/image/featured/toonzkids.jpg?itok=FVmJe15S" group-title="Anak² & Kartun",TOONZ KIDS
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.awn.com/sites/default/files/styles/original/public/image/featured/toonzkids.jpg?itok=FVmJe15S" group-title="Kids",TOONZ KIDS
 http://210.210.155.37/x6bnqe/s/s81/01.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Toonz_Kids
 
-#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.ibb.co/j6TqzY2/Desain-tanpa-judul-22-modified.png" group-title="Anak² & Kartun",Nick Jr Dora
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/nick.m3u8
-
-#EXTINF:-1 group-title="Anak² & Kartun",Disney Jr
-http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
-
-#EXTINF:-1 group-title="Anak² & Kartun",HappyKids
+#EXTINF:-1 group-title="Kids",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
 
-#EXTINF:-1 group-title="Anak² & Kartun",HappyKids Junior
+#EXTINF:-1 group-title="Kids",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 
-#EXTINF:-1  group-title="Anak² & Kartun",Kidsflix
+#EXTINF:-1  group-title="Kids",Kidsflix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zrWBQrN/Desain-tanpa-judul-21-modified.png" group-title="Anak² & Kartun",Biznet Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zrWBQrN/Desain-tanpa-judul-21-modified.png" group-title="Kids",Biznet Kids
 http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
-#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.ibb.co/cwf8GNW/wp9510639-modified.png" group-title="Anak² & Kartun",Lego
+#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.ibb.co/cwf8GNW/wp9510639-modified.png" group-title="Kids",Lego
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-logo="https://i.ibb.co/MSjZPmb/download-9-modified-2.png" group-title="Anak² & Kartun",Zoomoo
+#EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-logo="https://i.ibb.co/MSjZPmb/download-9-modified-2.png" group-title="Kids",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HipHipHoree.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-vUtTKf6ogRcvcjURJn62-m-eCU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png" group-title="Anak² & Kartun",Hip Hip Horee!
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/hip.m3u8
 
-#EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://thumbor.prod.vidiocdn.com/PQBfpwpTbQWZDJLLK5REbICdg-g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png" group-title="Anak² & Kartun",Horee!
-http://tv.zonanime.my.id/vidio/horee.m3u8
-
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.ibb.co/LzwXx7Y/ebs-kids-modified.png" group-title="Anak² & Kartun",EBS kids
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/kbskids.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pryPQjR/Oddbods-logo-modified.png" group-title="Anak² & Kartun",Oddbods
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/odd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TWcjyLv/unnamed-4.png" group-title="Anak² & Kartun",BabyBus
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/babaybus.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R3b1JPX/channels4-profile-6-modified.png" group-title="Anak² & Kartun",SpongeBob SquarePants
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/sponge.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQYpQdF/download-14-modified.png" group-title="Anak² & Kartun",Antiks
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/ant.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pXx10Fh/61-QX-Nx-Khe-L-SL1027-modified.png" group-title="Anak² & Kartun",Tom and Jerry
-https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/pengetahuan/tom.m3u8
-
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://i.postimg.cc/W3qp3X79/logo-dreamworks-big1.png",DreamWorks
-https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="Anak² & Kartun",KIDS MOVIE CLUB
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e39ba5-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e029d0-007c-4513-a784-dd479e643365&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU",Super Toons TV
-https://tinyurl.com/SuperToons
-
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjExa6sv41hP06KRDX20tOK93feiZGKISmA&usqp=CAU",TOON GOOGLES
-https://tinyurl.com/TiviMe-ToonGoogles
-
-#EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU",YAAAS!
-https://tinyurl.com/TiviMe-YAAAS
 
 
 -------- Movie ------
