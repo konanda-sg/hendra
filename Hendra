@@ -568,25 +568,3 @@ http://210.210.155.37/session/eb840bf4-25f3-11ed-9af7-9a7dadef5b77/dr9445/h/h16/
 http://210.210.155.37/session/e775987a-25f3-11ed-8ba5-85009179245a/dr9445/h/h15/01.m3u8
 
 -------------  Sport  -------------
-
---------------- Rakuten  -------------------------------
-
-
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 6 (EU)
-https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 7 (EU)
-https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 8 (EU)
-https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 9 (EU)
-https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 10 (EU)
-https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 11 (EU)
-https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 12 (EU)
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 13 (EU)
-https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="https://contentsquare.com/wp-content/uploads/2020/08/Rakuten_logo.png" group-title="rakuten",Family 16 (EU)
-https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
