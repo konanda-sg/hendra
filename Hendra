@@ -331,6 +331,15 @@ https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon South East Asia
 https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8?
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mentaritv_big.png" group-title="Kids", Mentari Tv
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png" group-title="Kids" tvg-logo="",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU",Super Toons TV
 https://tinyurl.com/SuperToons
 
@@ -340,7 +349,6 @@ https://tinyurl.com/TiviMe-ToonGoogles
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU",YAAAS!
 https://tinyurl.com/TiviMe-YAAAS
 
-#
 #EXTINF:-1 group-title="Kids",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
 
