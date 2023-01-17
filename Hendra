@@ -2,6 +2,9 @@
 
 -------- TV Lokal -------
 
+#EXTINF:-1 group-title="Lokal",BTV
+http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BTV
+
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Lokal",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1119251756_b744100_sleng.m3u8
 
@@ -279,6 +282,9 @@ https://h1.intechmedia.net/intech/ch16.m3u8
 https://h1.intechmedia.net/intech/ch64.m3u8
 
 -----------  kidsss -----------
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/6e/db/69/6edb69326ca4e5261ee2f9542d874ae9--disney-logo-disney-jr.jpg" group-title="Kids",Disney Jr 🇮🇳
+#http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
