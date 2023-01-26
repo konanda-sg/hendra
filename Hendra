@@ -1,4 +1,4 @@
-#E#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://bit.ly/3itZsSm, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://bit.ly/3itZsSm, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" refresh="3600"
 
 -------- TV Lokal -------
 
@@ -326,10 +326,10 @@ https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8?
+https://cdn.renotv.my.id/get.m3u8?ch=NDYyOTY1N2IzMTQwYTg5MzkzVDI5LzBobFNzSmM2eFpwQzNpOHhLbmhnd1dRN2Nub2JJUUgwRTBTVTFKSzR3aHdMcmxPV3pkd0JaRmlCcjdUamlmdEVYN2RtaFJ2dmo1bTNidmF1SWtrdStpNUEyeG15eTZGVzhnVE5BPQ==
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mentaritv_big.png" group-title="Kids", Mentari Tv
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
+https://cdn.renotv.my.id/get.m3u8?ch=MmI5ODg0MzYwNmFlYmMwNHVXL0w5OHFDcENnc3dldkhrQUV0b3doQTJXYWdSbTFicEZ5K3NzVy9tOG4yNEVEMkRlUDQyQmdUSWF4YkxNWVhnUGtPcE9sckQ5K3l2V1lBSzhaOHZhbytnSlQ1MFVkbmJxYTREdlhobmVvPQ==
 
 #EXTINF:-1 tvg-id="" tvg-name="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png" group-title="Kids" tvg-logo="",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
