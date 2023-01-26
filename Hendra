@@ -99,16 +99,16 @@ http://210.210.155.35/session/739816c2-dfd9-11ec-b03a-b82a72d63267/qwr9ew/s/s03/
 #EXTINF:-1 tvg-id=""ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Lokal", ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png" group-title="Lokal", Moji
+https://cdn.renotv.my.id/ts.m3u8?ch=Mjk0ZDg2N2UyNjA3MTVjMWc1ZVZZaXNUVGNOYS8wczJEM3V5NFlOMFUvTnUwczJ3cWl0UHo4OXB5N3BNRFg0ZlRYTFkvR1ZJSDdQTjdPMys5WkttSTlBUG5PYlN0RmkrME54azMvTHEzd3piRm9DRVhOSG5ENzk0VUJJPQ==
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="mncnews" tvg-logo="https://s.id/1d177" group-title="Lokal",MNC NEWS
 https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://thumbor.prod.vid.id/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="Lokal",TVRI DKI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://thumbor.prod.vid.id/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="Lokal",TVRI Nasional
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+https://cdn.renotv.my.id/ts.m3u8?ch=MmI2YmQ2OWIyMWNiYWI3Y1NxTHVkakpjdXVBUHYvUHhGK01neEZpTlYvTzRhNUlpQmNEb2JIb01wUDh3dUtaTUE3cDVXS0VkbXpYZWNRdyswWlpBckVwN0RSanNBZEh5UjZpZVpwR1greCtVUHlyeGp4bjh2N2Nsa0JNPQ==
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -139,7 +139,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7.m3u8
 http://118.98.229.118:1935/live/tve.stream/chunklist_w1225135328.m3u8
 
 #EXTINF:-1 tvg-id="DaAiTVIndonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="Lokal",DAAI TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/chunklist_b4628000.m3u8?p=79&s=1653916691&e=1653916811&h=1879f03e91e0a4f37e400d7c7fdae1fc
+https://cdn.renotv.my.id/get.m3u8?ch=ODFlOGY4NjliNzAzYWYwOUU3eFp4dW56Q2t0ME11bTFMekV1cXpVZU0yMUIybEk0MmVCZUQ5cEw2dTkyV2t0VjhPZUZGWmhjOUhFT2RHdDhKY2d4ZmxxZlNwZ2ttNzZuRGp0R0NpeXU4THVCQk03UXpvTzY5WGdUSDgwPQ==
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.ibb.co/0MSdf50/bfecbc-modified.png" group-title="Lokal",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
@@ -148,7 +148,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w569328975_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tcpp1x4/rri-net-modified.png" group-title="Lokal",RRI NET
-https://cdnrrinet.rri.co.id/rrinet/live/chunklist_w1191992214.m3u8
+https://cdn.renotv.my.id/ts.m3u8?ch=OWZmYzRlODA2MDg2ZWFhMlBMMHlCSTJKaFVKcXFDSlhJU3lyNHhPYW9LSm1rang3S2ZWc3FXTWF6MVVORlErREdOckV3UFoxQWVmV2lrR2k4SXB0M3hVOGlaeWZPdDQ0U0gzOWxwTGphZG1SR21lcGU1Z3FoSFF5ZXhnPQ==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0yw3hNY/unnamed-2-modified.png" group-title="Lokal",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/zjh5tjvs/2728/chunklist.m3u8
