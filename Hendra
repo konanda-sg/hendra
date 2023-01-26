@@ -2,12 +2,6 @@
 
 -------- TV Lokal -------
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=4028c685651d7bcc01651f0db0bf0097
-#EXTINF:-1 tvg-ID="transtv" tvg-logo="https://s.id/1d0Et" group-title="Lokal",TRANSTV
-https://cdn.renotv.my.id/go/playt/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
-
 #EXTINF:-1 group-title="Lokal",BTV
 http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BTV
 
@@ -76,8 +70,8 @@ https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-ID="gtv" tvg-logo="https://s.id/1d0AE" group-title="Lokal",GTV
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Lokal",Indosiar
-http://iptvid.my.id/hmm/indosiar.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Lokal",IIndosiar
+https://cdn.renotv.my.id/get.m3u8?ch=ZGFlMWZkMTBhNTMzM2ZmNGp3ZHNjUTNtbHpENzJFdzBXc0syWmxFN0NGYlM1QStNUmtSTmVaK1Y4U0RLMWNRM0NrQWdjWjJvZC90dlNFdEI4NW1rTERDaXY0VDk4aHMyYkVrcnJMY0tSQUxWTzBONjBvZVY4Y3BUR1hnPQ==
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Lokal",Indosiar
 http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
@@ -88,10 +82,10 @@ http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/
 https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://thumbor.prod.vid.id/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="Lokal",RTV
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/05.m3u8
+https://cdn.renotv.my.id/get.m3u8?ch=NzVmZTMyZjY4OWZhOGJlNnE2SFZTVTdKMmpMSENkQ0pITVVXMVpJUk4yVW9iWFU3SzR2eVZhN0VpenpIMy9IenhSYU10QllsWG9DV2t6V2dvdFFHUDZJSVl3MTNOWXlNZGJ0V3k2K2V4UXJzYUhnSHQrY2s5YWREZURBPQ==
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
-http://iptvid.my.id/hmm/sctv.m3u8
+https://cdn.renotv.my.id/get.m3u8?ch=NGZhYjU0ZmZhZGQ5NDI3YTBZeCtpc1hjaGUyVGRDVXAzZE5JRnRPRzVvWGdobkdQa3AwU3hGTnlxSFJqVDArVkcrcExGT05ERVFra0RxWFR0UG0vZmN6d2xkSlRUZmZxa1JidzdGREZjTFF4MHlUNFVKUHNIK21CbW5NPQ==
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
 http://210.210.155.35/session/739816c2-dfd9-11ec-b03a-b82a72d63267/qwr9ew/s/s03/02.m3u8
