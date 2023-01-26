@@ -86,7 +86,6 @@ https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.ibb.co/5hHHBMD/rajawali-lean-paps.png", RTV
 http://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://thumbor.prod.vid.id/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="Lokal",RTV
 https://cdn.renotv.my.id/get.m3u8?ch=NzVmZTMyZjY4OWZhOGJlNnE2SFZTVTdKMmpMSENkQ0pITVVXMVpJUk4yVW9iWFU3SzR2eVZhN0VpenpIMy9IenhSYU10QllsWG9DV2t6V2dvdFFHUDZJSVl3MTNOWXlNZGJ0V3k2K2V4UXJzYUhnSHQrY2s5YWREZURBPQ==
 
@@ -131,9 +130,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1907804209_b384
 
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.ibb.co/gDTVjwv/unnamed-modified-1.png" group-title="Lokal",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1318224863_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="IDXChannel.id" tvg-logo="https://i.ibb.co/NT5hpG7/unnamed-5-modified.png" group-title="Lokal",IDX Channel
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7.m3u8
 
 #EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Mm-q_EM4-t_oqza3f7Wm0tV_mDU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6838/eab36f.png" group-title="Lokal",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w1225135328.m3u8
