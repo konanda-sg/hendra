@@ -2,6 +2,12 @@
 
 -------- TV Lokal -------
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=4028c685651d7bcc01651f0db0bf0097
+#EXTINF:-1 tvg-ID="transtv" tvg-logo="https://s.id/1d0Et" group-title="Lokal",TRANSTV
+https://cdn.renotv.my.id/go/playt/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
+
 #EXTINF:-1 group-title="Lokal",BTV
 http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BTV
 
@@ -320,16 +326,34 @@ https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr Asia
 https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
+#EXTINF:-1 tvg-id="PlutoTVNickJr.us" tvg-name="Pluto TV Nick Jr." tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Pluto TV Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon South East Asia
 https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids", Dreamworks
+https://cdn.renotv.my.id/ts.m3u8?ch=MGY1Nzc2M2E1ZTk1ZDQ1Mys3UFM2TkVBNXFSSzRYN1hFb2oyWHlBVjVvWUE3RXJkd2dHNGowbStUZ3VxeC9jYWtnTmFMNWo0YlRCTHNlRExmdjd4a09DczZ6NXcvNE1EaHlrTXFVaGpkTFRaMGpicWprV1dlSHFPSnZFPQ==
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
+https://cdn.renotv.my.id/get.m3u8?ch=YWU0MWM3ZThjODc2ZjE2ZmVOZytJcWU1WFF6bG5vb0E1ckhRU1FaZkdia0Q1emxrSjdIWHF0WFNnT1k3UEZZN1o3MGhyVzB0bXhFMi8xYnQ5VVhLSDNKRjZ3Q2d5R2NIQngxOG5PNW9MRW02L1BwRjJEbmdnajI5V0NzPQ==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
 https://cdn.renotv.my.id/get.m3u8?ch=NDYyOTY1N2IzMTQwYTg5MzkzVDI5LzBobFNzSmM2eFpwQzNpOHhLbmhnd1dRN2Nub2JJUUgwRTBTVTFKSzR3aHdMcmxPV3pkd0JaRmlCcjdUamlmdEVYN2RtaFJ2dmo1bTNidmF1SWtrdStpNUEyeG15eTZGVzhnVE5BPQ==
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mentaritv_big.png" group-title="Kids", Mentari Tv
 https://cdn.renotv.my.id/get.m3u8?ch=MmI5ODg0MzYwNmFlYmMwNHVXL0w5OHFDcENnc3dldkhrQUV0b3doQTJXYWdSbTFicEZ5K3NzVy9tOG4yNEVEMkRlUDQyQmdUSWF4YkxNWVhnUGtPcE9sckQ5K3l2V1lBSzhaOHZhbytnSlQ1MFVkbmJxYTREdlhobmVvPQ==
+
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Kids",ABC Kids
+https://c.mjh.nz/101002210222/
+
+#EXTINF:-1 channel-id="samsung-USAK3508716A" tvg-id="USAK3508716A" tvg-chno="1395" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/38/USAK3508716A_20220330T044554.png" group-title="Kids",Kidoodle.TV
+https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+
+#EXTINF:-1 channel-id="samsung-USBB3600001R6" tvg-id="USBB3600001R6" tvg-chno="1392" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/31/USBB3600001R6_20220330T044636.png" group-title="Kids",TG Junior
+https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
 
 #EXTINF:-1 tvg-id="" tvg-name="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png" group-title="Kids" tvg-logo="",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
