@@ -133,7 +133,7 @@ http://118.98.229.118:1935/live/tve.stream/chunklist_w1225135328.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_big1.png" group-title="Religi",DAAI TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_big1.png" group-title="Lokal",DAAI TV
 https://liveaneviadev.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.ibb.co/0MSdf50/bfecbc-modified.png" group-title="Lokal",Nusantara TV
