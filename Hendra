@@ -324,6 +324,9 @@ https://tv.mrians.my.id/itil/larva/1/no7xr
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/uG675tT.png" group-title="Kids",Ryan and Friends (1080p)
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3XMWSp/download-41-modified.png" group-title="Kids",Talking Tom 
+https://tv.mrians.my.id/itil/talking_tom/1/no7xr 
+
 #EXTINF:-1 tvg-id="PlutoTVNickJr.us" tvg-name="Pluto TV Nick Jr." tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Pluto TV Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -333,10 +336,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids", Dreamworks
-https://cdn.renotv.my.id/ts.m3u8?ch=MGY1Nzc2M2E1ZTk1ZDQ1Mys3UFM2TkVBNXFSSzRYN1hFb2oyWHlBVjVvWUE3RXJkd2dHNGowbStUZ3VxeC9jYWtnTmFMNWo0YlRCTHNlRExmdjd4a09DczZ6NXcvNE1EaHlrTXFVaGpkTFRaMGpicWprV1dlSHFPSnZFPQ==
+https://cdn.renotv.my.id/ts.m3u8?ch=NGU0MWViYWMzMGJiNGM4NlVtbUVKMmFYUTZpdTRWOUN3aDdVWUFjd2RKNlFCc25xZ3pIOHNrYXFnNURIVnpCSnVhYVIreXBRRjc4eGc5QlpxQlZCTUl0bzVIMUYwOG5XL3ZSemg3Qm5Fa2xPa0lvL21BbnR0VUxpY3dRPQ==
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
-https://cdn.renotv.my.id/get.m3u8?ch=YWU0MWM3ZThjODc2ZjE2ZmVOZytJcWU1WFF6bG5vb0E1ckhRU1FaZkdia0Q1emxrSjdIWHF0WFNnT1k3UEZZN1o3MGhyVzB0bXhFMi8xYnQ5VVhLSDNKRjZ3Q2d5R2NIQngxOG5PNW9MRW02L1BwRjJEbmdnajI5V0NzPQ==
+https://cdn.renotv.my.id/get.m3u8?ch=Y2MwMzRkMjQ5MjM0ZjM4MkFIVmdndTlwVEg2Ti8yK0VRZnFSTFNBNG80SjdWcWYyU1Fxa0Z6SmNrV3dkMzRBTFprdGtCK1Z3VUE4T1BJYlVTWlBCbGliSW1iaTdZUmIxeDVUL2FNWmtwUlQ2OXJ3QmRPTXlXZmR0RCtjPQ==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
