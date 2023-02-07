@@ -339,10 +339,10 @@ https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #https://cdn.renotv.my.id/ts.m3u8?ch=NGU0MWViYWMzMGJiNGM4NlVtbUVKMmFYUTZpdTRWOUN3aDdVWUFjd2RKNlFCc25xZ3pIOHNrYXFnNURIVnpCSnVhYVIreXBRRjc4eGc5QlpxQlZCTUl0bzVIMUYwOG5XL3ZSemg3Qm5Fa2xPa0lvL21BbnR0VUxpY3dRPQ==
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
-#https://cdn.renotv.my.id/get.m3u8?ch=Y2MwMzRkMjQ5MjM0ZjM4MkFIVmdndTlwVEg2Ti8yK0VRZnFSTFNBNG80SjdWcWYyU1Fxa0Z6SmNrV3dkMzRBTFprdGtCK1Z3VUE4T1BJYlVTWlBCbGliSW1iaTdZUmIxeDVUL2FNWmtwUlQ2OXJ3QmRPTXlXZmR0RCtjPQ==
+https://cdn.renotv.my.id/get.m3u8?ch=Y2MwMzRkMjQ5MjM0ZjM4MkFIVmdndTlwVEg2Ti8yK0VRZnFSTFNBNG80SjdWcWYyU1Fxa0Z6SmNrV3dkMzRBTFprdGtCK1Z3VUE4T1BJYlVTWlBCbGliSW1iaTdZUmIxeDVUL2FNWmtwUlQ2OXJ3QmRPTXlXZmR0RCtjPQ==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
-#https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mentaritv_big.png" group-title="Kids", Mentari Tv
 https://geocities.ws/ariev7xx/mentari.m3u8
@@ -369,7 +369,7 @@ https://tinyurl.com/TiviMe-ToonGoogles
 https://tinyurl.com/TiviMe-YAAAS
 
 #EXTINF:-1 group-title="Kids",Pop Kids
-#https://cdn.renotv.my.id/ts.m3u8?ch=NGE1ZjIzNWI2MmEyMzhhNE9PRDR6eklIaHo1QWhmdGNZb1prM1h0QlJROThjUjJFbm5WQ3dKNHBlcGNvZmV1Q2V3SDlvL1dudURZaFRvdHRicjJUdm5VQ29uSmZ3OUNmZWNMdDVnPT0=
+https://cdn.renotv.my.id/ts.m3u8?ch=NGE1ZjIzNWI2MmEyMzhhNE9PRDR6eklIaHo1QWhmdGNZb1prM1h0QlJROThjUjJFbm5WQ3dKNHBlcGNvZmV1Q2V3SDlvL1dudURZaFRvdHRicjJUdm5VQ29uSmZ3OUNmZWNMdDVnPT0=
 
 #EXTINF:-1 group-title="Kids",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
