@@ -339,10 +339,10 @@ https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #https://cdn.renotv.my.id/ts.m3u8?ch=NGU0MWViYWMzMGJiNGM4NlVtbUVKMmFYUTZpdTRWOUN3aDdVWUFjd2RKNlFCc25xZ3pIOHNrYXFnNURIVnpCSnVhYVIreXBRRjc4eGc5QlpxQlZCTUl0bzVIMUYwOG5XL3ZSemg3Qm5Fa2xPa0lvL21BbnR0VUxpY3dRPQ==
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
-https://cdn.renotv.my.id/get.m3u8?ch=Y2MwMzRkMjQ5MjM0ZjM4MkFIVmdndTlwVEg2Ti8yK0VRZnFSTFNBNG80SjdWcWYyU1Fxa0Z6SmNrV3dkMzRBTFprdGtCK1Z3VUE4T1BJYlVTWlBCbGliSW1iaTdZUmIxeDVUL2FNWmtwUlQ2OXJ3QmRPTXlXZmR0RCtjPQ==
+#https://cdn.renotv.my.id/get.m3u8?ch=Y2MwMzRkMjQ5MjM0ZjM4MkFIVmdndTlwVEg2Ti8yK0VRZnFSTFNBNG80SjdWcWYyU1Fxa0Z6SmNrV3dkMzRBTFprdGtCK1Z3VUE4T1BJYlVTWlBCbGliSW1iaTdZUmIxeDVUL2FNWmtwUlQ2OXJ3QmRPTXlXZmR0RCtjPQ==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
+#https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mentaritv_big.png" group-title="Kids", Mentari Tv
 https://geocities.ws/ariev7xx/mentari.m3u8
@@ -369,7 +369,7 @@ https://tinyurl.com/TiviMe-ToonGoogles
 https://tinyurl.com/TiviMe-YAAAS
 
 #EXTINF:-1 group-title="Kids",Pop Kids
-https://cdn.renotv.my.id/ts.m3u8?ch=NGE1ZjIzNWI2MmEyMzhhNE9PRDR6eklIaHo1QWhmdGNZb1prM1h0QlJROThjUjJFbm5WQ3dKNHBlcGNvZmV1Q2V3SDlvL1dudURZaFRvdHRicjJUdm5VQ29uSmZ3OUNmZWNMdDVnPT0=
+#https://cdn.renotv.my.id/ts.m3u8?ch=NGE1ZjIzNWI2MmEyMzhhNE9PRDR6eklIaHo1QWhmdGNZb1prM1h0QlJROThjUjJFbm5WQ3dKNHBlcGNvZmV1Q2V3SDlvL1dudURZaFRvdHRicjJUdm5VQ29uSmZ3OUNmZWNMdDVnPT0=
 
 #EXTINF:-1 group-title="Kids",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
@@ -381,7 +381,7 @@ https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zrWBQrN/Desain-tanpa-judul-21-modified.png" group-title="Kids",Biznet Kids
-http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+#http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.ibb.co/cwf8GNW/wp9510639-modified.png" group-title="Kids",Lego
 https://legochannel-roku.amagi.tv/playlist.m3u8
@@ -396,7 +396,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="Kids",Duck TV
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4eddfb2fdec002c141139" tvg-id="5e20b730f2f8d5003d739db7-60d4eddfb2fdec002c141139" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidspangtv_logo_dark.png" group-title="Kids",Kids Pang TV
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
@@ -405,7 +405,7 @@ https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b60419becf60008c841fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 channel-id="pluto-6165c917a7302e0007871330" tvg-id="6165c917a7302e0007871330" tvg-chno="3165" tvg-logo="https://images.pluto.tv/channels/6165c917a7302e0007871330/colorLogoPNG.png" group-title="Kids",Niños por BBC Kids
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6165c917a7302e0007871330/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6165c917a7302e0007871330/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 -------- Movie ------
 
