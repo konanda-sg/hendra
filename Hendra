@@ -321,7 +321,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #https://tv.mrians.my.id/itil/babybus/1/wvzkg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dM4XS8S/download-13-modified.png" group-title="Kids",Larva 
-https://tv.mrians.my.id/itil/larva/1/wvzkg
+#https://tv.mrians.my.id/itil/larva/1/wvzkg
 
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/uG675tT.png" group-title="Kids",Ryan and Friends (1080p)
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
