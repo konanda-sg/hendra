@@ -321,7 +321,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #https://tv.mrians.my.id/itil/babybus/1/wvzkg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dM4XS8S/download-13-modified.png" group-title="Kids",Larva 
-#https://tv.mrians.my.id/itil/larva/1/wvzkg
+https://tv.mrians.my.id/itil/larva/1/wvzkg
 
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/uG675tT.png" group-title="Kids",Ryan and Friends (1080p)
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
@@ -344,7 +344,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.m
 #https://cdn.renotv.my.id/get.m3u8?ch=Y2MwMzRkMjQ5MjM0ZjM4MkFIVmdndTlwVEg2Ti8yK0VRZnFSTFNBNG80SjdWcWYyU1Fxa0Z6SmNrV3dkMzRBTFprdGtCK1Z3VUE4T1BJYlVTWlBCbGliSW1iaTdZUmIxeDVUL2FNWmtwUlQ2OXJ3QmRPTXlXZmR0RCtjPQ==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
-#https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7052.m3u8
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Kids",Mentari TV
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
