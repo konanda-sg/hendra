@@ -186,7 +186,7 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 
 #EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch28.m3u8
+https://h1.intechmedia.net/intech/ch27.m3u8
 
 #EXTINF:-100 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -224,7 +224,7 @@ https://h1.intechmedia.net/intech/ch2.m3u8
 https://h1.intechmedia.net/intech/ch9.m3u8
 
 #EXTINF:-105 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV (Backup)
-http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
+#http://tv.aliman.id:1935/aliman/HD/chunklist_w1595058791.m3u8
 
 #EXTINF:-106 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",INSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -255,14 +255,15 @@ https://h1.intechmedia.net/intech/ch10.m3u8
 https://h1.intechmedia.net/intech/ch7.m3u8
 
 #EXTINF:-113 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
-https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://h1.intechmedia.net/intech/ch28.m3u8
 
 #EXTINF:-114 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch5.m3u8
 
 #EXTINF:-114 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV (Backup)
-http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+#http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 
 #EXTINF:-115 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -281,7 +282,7 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+#https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #EXTINF:-1  group-title="Religi",Bina Madani TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
