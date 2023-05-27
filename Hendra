@@ -208,7 +208,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #EXTINF:-104 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
 https://h1.intechmedia.net/intech/ch2.m3u8
 
-#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ashiil TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="Religi" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ashiil TV (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch2.m3u8
 
