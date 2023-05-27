@@ -169,7 +169,7 @@ http://122.248.43.138:1935/ch6/myStream/chunklist_w503404370.m3u8
 
 ----------  Religi  -----------
 
-#EXTINF:-100 group-title="Religi" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV user-agent="Mozilla/5.0 (X11; Linux x86_64)",Rasyaad TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Rasyaad TV" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Rasyaad TV (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch6.m3u8
 
@@ -209,7 +209,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #EXTINF:-104 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
 https://h1.intechmedia.net/intech/ch2.m3u8
 
-#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="Religi" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ashiil TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ashiil TV (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch2.m3u8
 
