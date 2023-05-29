@@ -10,7 +10,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1119251756_b744100_
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="Lokal",Trans TV
+#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png" group-title="Lokal",Trans TV
 https://newanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="Lokal",Trans 7
@@ -36,7 +36,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1280px-LogoMetroTVsince2010.svg.png" group-title="Lokal",Metro TV
 https://newanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Lokal",METRO TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png" group-title="Lokal",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd?token=bukuanmetrotv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -44,7 +44,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png" group-title="Lokal",Kompas TV
 https://newanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://thumbor.prod.vid.id/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="Lokal",KOMPAS TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/2560px-KOMPAS_TV_%282017%29.svg.png" group-title="Lokal",KOMPAS TV
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -52,7 +52,7 @@ http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-ID="tvone" tvg-logo="https://s.id/1d0FV" group-title="Lokal",TVONE
 https://newanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://thumbor.prod.vid.id/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" group-title="Lokal",TV ONE
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Tvone.png" group-title="Lokal",TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -84,7 +84,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="Lokal",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="Lokal",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -101,7 +101,7 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="Lokal", Citra Entertainment
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg" group-title="Lokal", Citra Bioskop
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Lokal", Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Lokal", Citra Drama
@@ -729,10 +729,8 @@ https://newanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeI
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="Knowledge",HGTV Asia
 https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9y1nKoi.png" group-title="Knowledge",Asian Food Network
-https://newanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Knowledge",Asian Food Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
 
 
 
