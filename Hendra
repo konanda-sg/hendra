@@ -103,7 +103,7 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #EXTINF:0 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/gtiuZEf.png" group-title="Lokal",MNC News
 https://newanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://thumbor.prod.vid.id/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="Lokal",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Logo_TVRI.png" group-title="Lokal",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
