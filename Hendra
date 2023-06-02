@@ -313,6 +313,15 @@ https://h1.intechmedia.net/intech/ch64.m3u8
 
 -----------  kidsss -----------
 
+#EXTINF:-1 tvg-logo="https://media.karousell.com/media/photos/products/2022/4/29/spiderman_no_way_home_2021_blu_1651272002_72f16040_progressive" group-title="Kids", Spider-Man No Way Home 2022 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Spider-Man.No.Way.Home.2022/Spider-Man.No.Way.Home.2022.1080p.Bluray.DTS-HD.MA.5.1.X264-EVO%5BTGx%5DEVO.mkv
+
+#EXTINF:-1 tvg-logo="https://media.karousell.com/media/photos/products/2022/5/4/sonic_the_hedgehog_2_2022_blur_1651641212_df454a7f_progressive" group-title="Kids", Sonic The Hedgehog 2 2022 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Sonic.the.Hedgehog/Sonic.The.Hedgehog.2.2022.1080p.WEB-DL.x264.DD5.1-EVO.mkv
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg" group-title="Kids", Doctor Strange in The Multiverse of Madness 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv
+
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -898,7 +907,7 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/4222.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCI_RNQeW5Q_xd6o2Npo7QUBuCuBboQH57yA&usqp=CAU" group-title="OLAHRAGA",DUBAI SPORTS 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCI_RNQeW5Q_xd6o2Npo7QUBuCuBboQH57yA&usqp=CAU" group-title=OLAHRAGA",DUBAI SPORTS 2 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCI_RNQeW5Q_xd6o2Npo7QUBuCuBboQH57yA&usqp=CAU" group-title="OLAHRAGA",DUBAI SPORTS 2 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports.MACAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="OLAHRAGA",FOX SPORTS 1
