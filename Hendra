@@ -322,6 +322,9 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Sonic.the.Hedgehog/Sonic.Th
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg" group-title="Kids", Doctor Strange in The Multiverse of Madness 2022
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/Avengers_Endgame_poster.jpg" group-title="Kids",Avengers End Game (2019)
+https://pudfwg.sn.files.1drv.com/y4maU47cy_ilMXGoDyW5r166zR2b5G0c0w_LikE7iqNvOuDqrsZHer29Fs9Hzh4HYXzh3iV31AQcn2dcbtgqcfIwP_iqAoObfVf3J2r8LoPUz3cA9TnBFnmgdTZy8p6euXZ0Eu4oL_OdMVP7_ODknEt9Bn5Exwrzm6Z3w7jV4QOTWqdKoOB5OH-XU8XDDdY0aqW8EFO4luBMXnUvhZUCMzuzg
+
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
