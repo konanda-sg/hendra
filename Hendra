@@ -331,6 +331,10 @@ http://103.152.118.53:80/streams/pidio/hls/8237-mentari-tv/master.m3u8
 #EXTINF:-1 tvg-id="MrBean" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Cartoon-Mr.-Bean-Transparent.png" group-title="Kids",Mr bean
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
 
+
+#EXTINF:-1 tvg-id="Upinipin" tvg-logo="https://www.pngitem.com/pimgs/m/16-164339_tidak-mau-sekolah-gara-gara-upin-ipin-upin.png" group-title="Kids",Upin ipin
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
