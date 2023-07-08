@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Lokal",BTV
 http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BTV
 
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Kids",Mentari TV
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Lokal",Mentari TV
 http://103.152.118.53:80/streams/pidio/hls/8237-mentari-tv/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
