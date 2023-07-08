@@ -325,6 +325,8 @@ https://h1.intechmedia.net/intech/ch64.m3u8
 
 -----------  kidsss -----------
 
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Kids",Mentari TV
+http://103.152.118.53:80/streams/pidio/hls/8237-mentari-tv/master.m3u8
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -371,6 +373,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 #EXTINF:0 tvg-id="NickJrAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1920px-Nick_Jr._logo_2009.svg.png" group-title="kids",Nick Jr Asia
 https://newanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/3a4b66_bc8636cb769449b0ad87454171c9cef8~mv2.png/v1/fill/w_1280,h_720,al_c/3a4b66_bc8636cb769449b0ad87454171c9cef8~mv2.png" group-title="Kids",cartoon chanel
+https://i.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQYpQdF/download-14-modified.png" group-title="Kids",Antiks 
 #https://tv.mrians.my.id/itil/antiks/1/wvzkg
 
@@ -403,8 +408,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298536
 
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Kids",Mentari TV
-https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aBg0Ge4.png" group-title="Kids",Biznet Kids
 #http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
@@ -480,7 +483,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playli
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/krcmfbwdyapzxpi/disneyjunior.png" group-title="Kids", Disney Junior
-https://iptv.urfan.web.id/stream/disnijeer.m3u8
+http://103.152.118.53:80/streams/disnijeer/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
