@@ -3,16 +3,21 @@
 
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="MENTARI TV" tvg-logo="https://i.imgur.com/BgIUxdy.png",MENTARI TV
 http://103.166.27.2:800/play/a018
+
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="ANTV" tvg-logo="https://tv.qreatifku.my.id/images/antvd.png",ANTV
 https://kametv.my.id/putar/digital/antv.php
 #https://ythls.onrender.com/video/io8_c0chdBc.m3u8
+
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="TVONE" tvg-logo="https://tv.qreatifku.my.id/images/tvoned.png",TVONE
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
+
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png",KOMPAS TV
 https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
+
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="TRANS TV" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.p",TRANS TV
 https://kametv.my.id/putar/digital/transtv.php
 #http://103.166.27.2:800/play/a01b
+
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="TRANS 7" tvg-logo="https://s.id/1d0F6",TRANS 7
 https://kametv.my.id/putar/digital/trans7.php
 #http://103.166.27.2:800/play/a01c
@@ -20,14 +25,37 @@ https://kametv.my.id/putar/digital/trans7.php
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png",SCTV
 https://kametv.my.id/putar/digital/sctv.php
 #http://103.166.27.2:800/play/a015
+
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",INDOSIAR
 https://kametv.my.id/putar/digital/indosiar.php
 #http://103.166.27.2:800/play/a016
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="LOCAL DIGITAL",MNC TV
+https://newanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="NET TV" tvg-logo="https://i.imgur.com/fChjylx.png",NET TV
+http://103.152.118.53:80/play/yt/by-id/d59850Gob28/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOCAL DIGITAL",RCTI
+https://newanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:0 tvg-id="INews.id" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="LOCAL DIGITAL",iNews
+https://newanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1280px-LogoMetroTVsince2010.svg.png" group-title="LOCAL DIGITAL",Metro TV
+https://newanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png",MOJI
 https://kametv.my.id/putar/digital/moji.php
 #http://103.166.27.2:800/play/a017
-#EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="NET TV" tvg-logo="https://i.imgur.com/fChjylx.png",NET TV
-#http://103.152.118.53:80/play/yt/by-id/d59850Gob28/index.m3u8
 
 
 
