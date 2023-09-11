@@ -302,14 +302,16 @@ https://h1.intechmedia.net/intech/ch13.m3u8
 
 #EXTINF:-103 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch3.m3u8
+#https://h1.intechmedia.net/intech/ch3.m3u8
+https://h1.intechmedia.net/intech/ch13.m3u8
 
 #EXTINF:-103 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV (Backup)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #EXTINF:-104 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch2.m3u8
+#https://h1.intechmedia.net/intech/ch2.m3u8
+https://h1.intechmedia.net/intech/ch14.m3u8
 
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="Religi" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ashiil TV (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
