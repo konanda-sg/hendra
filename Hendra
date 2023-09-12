@@ -36,7 +36,10 @@ https://kametv.my.id/putar/digital/indosiar.php
 https://newanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="LOCAL DIGITAL" tvg-id="NET TV" tvg-logo="https://i.imgur.com/fChjylx.png",NET TV
-http://103.152.118.53:80/play/yt/by-id/d59850Gob28/index.m3u8
+#http://103.152.118.53:80/play/yt/by-id/d59850Gob28/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="LOCAL DIGITAL",Net
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/80292
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
