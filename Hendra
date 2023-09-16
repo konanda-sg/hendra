@@ -6,6 +6,16 @@
 #https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 
+#EXTINF:-1 group-title="test" tvg-id="HBO" tvg-logo="https://tv.qreatifku.my.id/images/hbo.png",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+https://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 group-title="test" tvg-id="K+ LIFE" tvg-logo="https://tv.qreatifku.my.id/images/kl.png",K+ LIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
 -----LOCAL FHD-----
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="MENTARI TV" tvg-logo="https://i.imgur.com/BgIUxdy.png",MENTARI TV
