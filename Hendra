@@ -1,10 +1,5 @@
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1024px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
-https://liveaneviadev.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-
 
 -----LOCAL FHD-----
 
@@ -19,12 +14,24 @@ https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="TRANS TV" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.p",TRANS TV
-https://kametv.my.id/putar/digital/transtv.php
+#https://kametv.my.id/putar/digital/transtv.php
 #http://103.166.27.2:800/play/a01b
 
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png" group-title="Lokal" tvg-id="TransTV.id" tvg-name="Trans TV", Trans TV HD
+https://newanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="TRANS 7" tvg-logo="https://s.id/1d0F6",TRANS 7
-https://kametv.my.id/putar/digital/trans7.php
+#https://kametv.my.id/putar/digital/trans7.php
 #http://103.166.27.2:800/play/a01c
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://s.id/1d0F6" group-title="Lokal" tvg-id="Trans7.id" tvg-name="Trans 7", Trans 7 HD
+https://newanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1280px-LogoMetroTVsince2010.svg.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -45,12 +52,19 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png",SCTV
-https://kametv.my.id/putar/digital/sctv.php
+#https://kametv.my.id/putar/digital/sctv.php
 #http://103.166.27.2:800/play/a015
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="Lokal" tvg-id="SCTV.id" tvg-name="SCTV", SCTV HD
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",INDOSIAR
-https://kametv.my.id/putar/digital/indosiar.php
+#https://kametv.my.id/putar/digital/indosiar.php
 #http://103.166.27.2:800/play/a016
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="Lokal" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="NET TV" tvg-logo="https://i.imgur.com/fChjylx.png",NET TV
 #http://103.152.118.53:80/play/yt/by-id/d59850Gob28/index.m3u8
