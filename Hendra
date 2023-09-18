@@ -19,7 +19,8 @@
 -----LOCAL FHD-----
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="MENTARI TV" tvg-logo="https://i.imgur.com/BgIUxdy.png",MENTARI TV
-http://103.166.27.2:800/play/a018
+#http://103.166.27.2:800/play/a018
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298546
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png",KOMPAS TV
 https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
@@ -103,8 +104,8 @@ http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&u
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Lokal",Mentari TV
 #https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
-#https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
-http://103.166.27.2:800/play/a018
+https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
+#http://103.166.27.2:800/play/a018
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
