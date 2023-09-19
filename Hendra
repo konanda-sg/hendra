@@ -4,8 +4,8 @@
 -----LOCAL FHD----- 
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="MENTARI TV" tvg-logo="https://i.imgur.com/BgIUxdy.png",MENTARI TV
-http://103.166.27.2:800/play/a018
-#http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
+#http://103.166.27.2:800/play/a018
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png",KOMPAS TV
 https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
@@ -88,16 +88,13 @@ http://202.147.204.114/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://newanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png",MOJI
-https://kametv.my.id/putar/digital/moji.php
+#https://kametv.my.id/putar/digital/moji.php
 #http://103.166.27.2:800/play/a017
-
-#EXTINF:-1 group-title="LOCAL FHD" tvg-id="ANTV" tvg-logo="https://tv.qreatifku.my.id/images/antvd.png",ANTV
-#https://kametv.my.id/putar/digital/antv.php
-#https://ythls.onrender.com/video/io8_c0chdBc.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="ANTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="Lokal",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="LOCAL FHD",ANTV
 http://202.147.204.114/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -113,10 +110,9 @@ http://202.147.204.114/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BTV
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Lokal",Mentari TV
-#https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
-http://103.166.27.2:800/play/a018
-#http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
+#http://103.166.27.2:800/play/a018
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
