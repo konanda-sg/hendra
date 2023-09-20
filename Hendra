@@ -490,6 +490,12 @@ https://newanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.m
 #EXTINF:0 tvg-id="BabyTV.uk" tvg-logo="https://i.imgur.com/91ucvv3.png" group-title="Kids",Baby TV Asia
 https://newanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
+#EXTINF:-1 group-title="Kids" tvg-id="CINEMACHI KIDS" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png",CINEMACHI KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+http://202.147.204.114/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstreaml.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
