@@ -907,12 +907,12 @@ http://202.147.204.114/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.
 #EXTINF:-1 group-title="Movie" tvg-id="CINEMACHI MAX" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20MAX%20Square%20(black).png",CINEMACHI MAX 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-http://202.147.204.114/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+#http://202.147.204.114/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #EXTINF:-1 group-title="Movie" tvg-id="CINEMACHI XTRA" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png",CINEMACHI XTRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-http://202.147.204.114/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+#http://202.147.204.114/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 -------- Knowledge --------
 
