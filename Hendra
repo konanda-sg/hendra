@@ -531,12 +531,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-#EXTINF:-1 tvg-logo="http://logo.yurend.net/07.anak/cartoonpremium.png" tvg-name="" group-title="Kids",CARTOON PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/25/Cubmu_white.svg/1200px-Cubmu_white.svg.png" tvg-name="" group-title="Kids",CARTOON PREMIUM
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-#EXTINF:-1 tvg-logo="http://logo.yurend.net/07.anak/cartoontv.png" tvg-name="" group-title="Kids",CARTOON TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/25/Cubmu_white.svg/1200px-Cubmu_white.svg.png" tvg-name="" group-title="Kids",CARTOON TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
