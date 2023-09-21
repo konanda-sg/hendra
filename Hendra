@@ -533,7 +533,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="NickJrAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1920px-Nick_Jr._logo_2009.svg.png" group-title="kids",Nick Jr Asia
-https://newanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+http://202.147.204.114/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/3a4b66_bc8636cb769449b0ad87454171c9cef8~mv2.png/v1/fill/w_1280,h_720,al_c/3a4b66_bc8636cb769449b0ad87454171c9cef8~mv2.png" group-title="Kids",cartoon chanel
 https://i.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
@@ -559,7 +559,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="NickelodeonAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
-https://newanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+http://202.147.204.114/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids", Dreamworks
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
