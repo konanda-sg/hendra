@@ -482,7 +482,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstreaml.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiI4OTE3MDUxIiwic2Vzc2lvbklkIjoiZUExRjNoUk1pM2VLMEpGQnZWdm9uY3VNaENxRUVrTWlMbzBvVHZob3lUT0NnZHJfR2lKYVNZYVlfdVVaUFVXV2FkWEVfQU1STDhNY1pqa21QQm9fZkEuLiIsIm1lcmNoYW50IjoiYXZpaW9uMiJ9="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -646,7 +645,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Movie",Cinemax
 #http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
