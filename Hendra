@@ -10,7 +10,7 @@ http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png",KOMPAS TV
 https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 
-#EXTINF:-1 group-title="LOCAL FHD" tvg-id="TVONE" tvg-logo="https://tv.qreatifku.my.id/images/tvoned.png",TVONE
+#EXTINF:-1 group-title="LOCAL FHD" tvg-id="TVONE" tvg-logo="https://s.id/1d0FV",TVONE
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="TRANS TV" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.p",TRANS TV
@@ -567,10 +567,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:0 tvg-id="NickelodeonAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids", Dreamworks
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/2560px-DreamWorks_Channel_Logo.svg.png" group-title="Kids", Dreamworks
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png" group-title="Kids", Horee
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hS5rTOHjj5k/WONU1lYmlHI/AAAAAAAAiQs/11jGoCg8Kuw2TZZYsA2cL9mcNSVsg8kdQCLcB/s1600/horee-tv-channel-logo.png" group-title="Kids", Horee
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
