@@ -8,7 +8,7 @@
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png",KOMPAS TV
-#https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
+https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -16,7 +16,7 @@ http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="TVONE" tvg-logo="https://s.id/1d0FV",TVONE
-#https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
+https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
