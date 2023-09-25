@@ -617,7 +617,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Movie",Cinemax
 #http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/197964
+#http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/197964
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -637,17 +637,17 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movie",HBO
 #http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/197972
 #http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
+#http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Movie",HBO Family
 #http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Hbo family" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Movie",HBO Family
 #http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
+#http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
@@ -657,7 +657,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movie",HBO Signature
 #http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
+#http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
@@ -667,7 +667,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movie",HBO Hits
 #http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
+#http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png" group-title="movie", PARAMOUNT ID
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
