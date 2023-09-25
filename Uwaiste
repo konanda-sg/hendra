@@ -18,7 +18,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 #EXTINF:-1 group-title="Coba" tvg-id="MENTARI TV" tvg-logo="https://i.imgur.com/BgIUxdy.png",hbo family cacing
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/106.mpd
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
