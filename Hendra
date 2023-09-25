@@ -7,13 +7,13 @@
 #http://103.166.27.2:800/play/a018
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
 
-#EXTINF:-1 group-title="LOCAL FHD" tvg-id="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png",KOMPAS TV
+#EXTINF:-1 group-title="LOCAL FHD" tvg-id="KOMPAS TV" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others-thumbnail.png",KOMPAS TV
 https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png" group-title="LOCAL FHD",Kompas TV
-https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="TVONE" tvg-logo="https://s.id/1d0FV",TVONE
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
@@ -21,7 +21,7 @@ https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-id="tvOne.id" group-title="LOCAL FHD" tvg-logo="https://s.id/1d0FV",TVOne
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 group-title="LOCAL FHD" tvg-id="TRANS TV" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.p",TRANS TV
 #https://kametv.my.id/putar/digital/transtv.php
@@ -194,11 +194,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u
 #https://newanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="tvOne.id" group-title="Lokal" tvg-logo="https://s.id/1d0FV",TVOne
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-id="tvOne.id" group-title="Lokal" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others-thumbnail.png",TVOne
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Tvone.png" group-title="Lokal",TV ONE
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others-thumbnail.png" group-title="Lokal",TV ONE
 #http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -300,7 +300,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-ID="muslimtv" tvg-logo="https://s.id/1d19D" group-title="Lokal",MUSLIMTV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToplS1RToSdaSX_MGUiJMjmgYUBmKgWoTZXBrznSnq6XYnaJEDVF_wVuI&s=10" group-title="Lokal",DIGIONE MAXSTREAM
+#EXTINF:-1 tvg-logo="https://digione.cz/files/digioneLogo.png" group-title="Lokal",DIGIONE MAXSTREAM
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 #EXTINF:-1 tvg-id="https://i.ibb.co/CHr0k6T/2019-09-30-09-47-24-cdv-photo-003-modified.png" group-title="lokal",ELSHINTA
@@ -358,10 +358,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch6.m3u8
 
-#EXTINF:-100 group-title="Religi" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV 1
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/RasyaadTvLiveStreaming/live
-
-#EXTINF:-100 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV ACEH
+#EXTINF:-100 group-title="Religi" tvg-logo="https://mediasunnahaceh.tv/wp-content/uploads/2022/10/new.png",MEDS TV ACEH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch23.m3u8
 
@@ -369,45 +366,45 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 #https://h1.intechmedia.net/intech/ch27.m3u8
 
-#EXTINF:-100 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
+#EXTINF:-100 group-title="Religi" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png",RODJA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch26.m3u8
 
 #EXTINF:-100 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV (Backup 1)
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
-#EXTINF:-104 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+#EXTINF:-104 group-title="Religi" tvg-logo="https://w7.pngwing.com/pngs/407/223/png-transparent-quran-mecca-television-channel-television-show-the-holy-quran-miscellaneous-television-white.png",MAKKAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch14.m3u8
 
-#EXTINF:-103 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+#EXTINF:-103 group-title="Religi" tvg-logo="https://2.bp.blogspot.com/-7xJ__ouF6os/VlZlmiGX23I/AAAAAAAAbr8/nqwBcUA00qA/s1600/saudi-sunnah-logo.png",MADINAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch13.m3u8
 
-#EXTINF:-103 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+#EXTINF:-103 group-title="Religi" tvg-logo="https://www.surautv.id/wp-content/uploads/2021/05/logosurautvvalid.png",SURAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch3.m3u8
 
-#EXTINF:-103 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV (Backup)
-https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+#EXTINF:-103 group-title="Religi" tvg-logo="https://www.surautv.id/wp-content/uploads/2021/05/logosurautvvalid.png",SURAU TV (B)
+#https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
-#EXTINF:-104 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
+#EXTINF:-104 group-title="Religi" tvg-logo="https://ashiil.tv/wp-content/uploads/2021/07/WEB-e1625560048779.png",ASHIIL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch2.m3u8
 
-#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="Religi" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ashiil TV (720p) [Geo-blocked]
+#EXTINF:-111 group-title="Religi" tvg-logo="https://2.bp.blogspot.com/-Wc6c3voYhmE/VxTbj0QBaQI/AAAAAAAAdVg/spFmlUS6nPkHRTy_tuOhBFidTKwGV7ptgCLcB/s0/niaga-tv-logo.png",NIAGA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-#https://h1.intechmedia.net/intech/ch2.m3u8
+https://h1.intechmedia.net/intech/ch10.m3u8
 
-#EXTINF:-105 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
+#EXTINF:-105 group-title="Religi" tvg-logo="https://aliman.id/site/wp-content/uploads/2019/01/cropped-logo-250.png",AL IMAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch9.m3u8
 
-#EXTINF:-106 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",INSAN TV
+#EXTINF:-106 group-title="Religi" tvg-logo="http://www.insantv.com/wp-content/uploads/sites/2/2017/05/logo.png",INSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch1.m3u8
 
-#EXTINF:-107 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png"",AHSAN TV
+#EXTINF:-107 group-title="Religi" tvg-logo="https://ahsan.tv/wp-content/uploads/2021/08/avatar-link-ahsan.png"",AHSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch4.m3u8
 
@@ -422,10 +419,6 @@ https://h1.intechmedia.net/intech/ch8.m3u8
 #EXTINF:-110 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png",SJP TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch17.m3u8
-
-#EXTINF:-111 group-title="Religi" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",NIAGA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch10.m3u8
 
 #EXTINF:-111 group-title="Religi" tvg-logo="https://3.bp.blogspot.com/-23VZWqCgS7A/X1q7DFXkgBI/AAAAAAAAqFE/URhNKi0PmOoHd1iydSUatBUvv3g6n2MUQCLcBGAsYHQ/s1600/puldapii-tv-channel-logo.png",PUlDAPII TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -442,6 +435,7 @@ https://h1.intechmedia.net/intech/ch7.m3u8
 #EXTINF:-113 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch28.m3u8
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880915
 
 #EXTINF:-114 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
