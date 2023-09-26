@@ -10,16 +10,13 @@ https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png", group-title="TV Indo backup",KOMPASTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/2560px-KOMPAS_TV_%282017%29.svg.png" group-title="TV Indo backup",KOMPAS TV
-http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
-
 --- TV one
 
 #EXTINF:-1 group-title="TV Indo backup" tvg-id="TVONE" tvg-logo="https://s.id/1d0FV",TVONE
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://s.id/1d0FV" group-title="TV Indo backup",TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#http://12537-stream-ip-tv.xyz/play/channels/yt/hls/by-id/yNKvkPJl-tg/master.m3u8
 
 --- Metro tv
 
@@ -42,7 +39,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png" group-title="TV Indo backup",Trans TV
-https://newanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/transteve/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png", group-title="TV Indo backup",TRANSTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
@@ -52,7 +49,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-ID="trans7" tvg-logo="https://s.id/1d0F6" group-title="TV Indo backup",TRANS7
-https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+http://12537-stream-ip-tv.xyz/play/channels/efemeks/transpitu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.id/1d0F6", group-title="TV Indo backup",TRANS7 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
