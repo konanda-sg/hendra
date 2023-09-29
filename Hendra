@@ -305,16 +305,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 ----- Etv movie
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV Indo",Etv Bioskop
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uugvh3kNo7BBslwoyT-Udef_NqISRbxNiw&usqp=CAU" group-title="TV Indo",Etv Bioskop
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298526
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV Indo",Etv Bioskop 02
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uugvh3kNo7BBslwoyT-Udef_NqISRbxNiw&usqp=CAU" group-title="TV Indo",Etv Bioskop 02
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298527
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV Indo",Etv Bioskop 03
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uugvh3kNo7BBslwoyT-Udef_NqISRbxNiw&usqp=CAU" group-title="TV Indo",Etv Bioskop 03
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298528
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV Indo",Etv Bioskop 04
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uugvh3kNo7BBslwoyT-Udef_NqISRbxNiw&usqp=CAU" group-title="TV Indo",Etv Bioskop 04
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298529
 
 --- Digione
