@@ -303,6 +303,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 tvg-ID="muslimtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Muslim_TV.png/revision/latest?cb=20210109124709" group-title="TV Indo",MUSLIMTV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
+----- Etv movie
+
+EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movie",Etv Bioskop
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298526
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movie",Etv Bioskop 02
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298527
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movie",Etv Bioskop 03
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298528
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movie",Etv Bioskop 04
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298529
+
 --- Digione
 
 #EXTINF:-1 tvg-logo="https://digione.cz/files/digioneLogo.png" group-title="TV Indo",DIGIONE MAXSTREAM
