@@ -242,7 +242,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1Tbc9fICCnr4e5A6DL0Lyw071J8_W0KULQ&usqp=CAU" group-title="TV Indo", Flik
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/api/usi/drm.php?id=flik 
-https://api.thomasandi.my.id/api/usi/hls.mpd?id=flik
+#https://api.thomasandi.my.id/api/usi/hls.mpd?id=flik
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1Tbc9fICCnr4e5A6DL0Lyw071J8_W0KULQ&usqp=CAU" group-title="TV Indo",FLIK
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165095
 
 ----  Citra Muslim
 
