@@ -31,3 +31,8 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/clearkey/index.php?id=Cinemachi-Xtra-HD 
 https://av-live-cdn-01.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-id="CinemachiXtra" group-title="Movies1" ch-number="6" tvg-logo="https://aqfadtv.xyz/logos/CinemachiXtra.png",Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/clearkey/index.php?id=Cinemachi-Xtra-HD
+https://av-live-cdn-01.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
