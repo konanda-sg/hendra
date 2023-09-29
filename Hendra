@@ -695,7 +695,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" tvg-name="" group-title="Movie",BIOKOP INDONESIA
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
@@ -919,7 +919,7 @@ https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="KNOWLEDGE",Discovery Since
 #https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
