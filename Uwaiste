@@ -38,5 +38,5 @@ https://av-live-cdn-01.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://av-live-cdn-01.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 
-EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ch-number="92",Mentari TV 
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ch-number="92",Mentari TV 
 https://cdn.thomasandi.my.id/coba/vid/play.m3u8?id=8237&type=hls&token=IGVzecI0d4EWyI1WefTUWWekYnDyyln09XN2ugqEXscg31nljodmdDMvP6=WI9TIN
