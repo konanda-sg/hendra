@@ -497,6 +497,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
 #EXTINF:-1 tvg-id="Upinipin" tvg-logo="https://cdn-image.hipwee.com/wp-content/uploads/2017/08/hipwee-pic4.png" group-title="Kids",Upin ipin
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4gaCcJ3j2Gzl1PgvHgzwz79G0-V1yhqIQg&usqp=CAU" group-title="Kids",Tom & Jerry
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/26810
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
