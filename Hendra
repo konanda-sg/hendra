@@ -497,7 +497,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
 #EXTINF:-1 tvg-id="Upinipin" tvg-logo="https://cdn-image.hipwee.com/wp-content/uploads/2017/08/hipwee-pic4.png" group-title="Kids",Upin ipin
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4gaCcJ3j2Gzl1PgvHgzwz79G0-V1yhqIQg&usqp=CAU" group-title="Kids",Tom & Jerry
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/378/596/png-transparent-tom-and-jerry-show-tom-cat-jerry-mouse-nibbles-tom-and-jerry-tom-and-jerry-mammal-heroes-cat-like-mammal-thumbnail.png" group-title="Kids",Tom & Jerry
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/26810
 
 #EXTM3U
@@ -626,7 +626,7 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-logo="https://i.ibb.co/MSjZPmb/download-9-modified-2.png" group-title="Kids",Zoomoo
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidspangtv_logo_dark.png" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-logo="https://ww2.freelogovectors.net/wp-content/uploads/2019/02/disneyjuniorlogo.png" group-title="Kids",Disney Junior
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/8608
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids",Disney XD
@@ -635,7 +635,7 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6395
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2303
 
-#EXTINF:-1 tvg-logo="https://ww2.freelogovectors.net/wp-content/uploads/2019/02/disneyjuniorlogo.png" group-title="Kids", Tayo TV
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/85-856560_20-off-tayo-the-little-bus-hd-png.png" group-title="Kids", Tayo TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids", Cartoonito
