@@ -497,7 +497,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
 #EXTINF:-1 tvg-id="Upinipin" tvg-logo="https://cdn-image.hipwee.com/wp-content/uploads/2017/08/hipwee-pic4.png" group-title="Kids",Upin ipin
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/378/596/png-transparent-tom-and-jerry-show-tom-cat-jerry-mouse-nibbles-tom-and-jerry-tom-and-jerry-mammal-heroes-cat-like-mammal-thumbnail.png" group-title="Kids",Tom & Jerry
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/844/795/png-clipart-tom-and-jerry-cartoon-logo-jerry-mouse-tom-cat-tom-and-jerry-tom-and-jerry-television-animals.png-mammal-heroes-cat-like-mammal-thumbnail.png" group-title="Kids",Tom & Jerry
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/26810
 
 #EXTM3U
@@ -635,10 +635,10 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6395
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2303
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/85-856560_20-off-tayo-the-little-bus-hd-png.png" group-title="Kids", Tayo TV
+#EXTINF:-1 tvg-logo="https://id-live-01.slatic.net/p/26a175c14fa433a390b4b12bec692f4b.png" group-title="Kids", Tayo TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids", Cartoonito
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png" group-title="Kids", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
 
