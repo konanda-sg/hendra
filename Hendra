@@ -497,7 +497,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
 #EXTINF:-1 tvg-id="Upinipin" tvg-logo="https://cdn-image.hipwee.com/wp-content/uploads/2017/08/hipwee-pic4.png" group-title="Kids",Upin ipin
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
 
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/966/1876966-middle.png" group-title="Kids",Tom & Jerry
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/354/514/gratis-png-tom-y-jerry.png" group-title="Kids",Tom & Jerry
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/26810
 
 #EXTM3U
@@ -615,8 +615,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hS5rTOHjj5k/WONU1lYmlHI/AAAAAAAAiQs/11jGoCg8Kuw2TZZYsA2cL9mcNSVsg8kdQCLcB/s1600/horee-tv-channel-logo.png" group-title="Kids", Horee
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cDB0b3/hiphore.png" group-title="Kids", Hip Hip Horee
+#EXTINF:-1 tvg-logo="https://clipart-library.com/image_gallery/435616.png" group-title="Kids", Hip Hip Horee
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298536
+
 
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
