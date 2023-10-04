@@ -657,7 +657,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52883505c5eb354db8fd8a81e85ee675:01e87176a59e6f795304100b8609190a
 #EXTINF:-1 group-title="Movie" tvg-id="Cinemax Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png",Cinemax Max
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+#http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
@@ -672,9 +672,9 @@ http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad9bb9f4c553adbb9046043dc4f4a7e:e33f6abd154ff14a696ef1c1a7a0b496
-EXTINF:-1 group-title="Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",Hbo Max
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-https://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#EXTINF:-1 group-title="Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",Hbo Max
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#https://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
