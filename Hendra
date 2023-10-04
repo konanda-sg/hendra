@@ -310,16 +310,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 ----- Etv movie
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="TV Indo",Etv Bioskop
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298526
+#http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298526
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="TV Indo",Etv Bioskop 02
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298527
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="TV Indo",Etv Bioskop 03
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298528
+#http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298528
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="TV Indo",Etv Bioskop 04
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298529
+#http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298529
 
 --- Digione
 
