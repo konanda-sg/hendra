@@ -50,3 +50,42 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/108/108.mpd
 #https://cdn.thomasandi.my.id/coba/vid/play.m3u8?id=8237&type=hls&token=IGVzecI0d4EWyI1WefTUWWekYnDyyln09XN2ugqEXscg31nljodmdDMvP6=WI9TIN
 #https://api.thomasandi.my.id/api/usi/hls.mpd?id=mentaritv
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298546
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52883505c5eb354db8fd8a81e85ee675:01e87176a59e6f795304100b8609190a
+#EXTINF:-1 group-title="Movie" tvg-id="Cinemax Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png",Cinemax Max
+http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad9bb9f4c553adbb9046043dc4f4a7e:e33f6abd154ff14a696ef1c1a7a0b496
+#EXTINF:-1 group-title="Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",Hbo Max
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02cb3453a0313c5fb8f31e9e3f0ba979:90c15b569eb7f84efa56feb2d094151a
+EXTINF:-1 group-title="Movie" tvg-id="Hbo family Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png",Hbo Family Max
+http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b113a1f6f4a35cc87344dad432a0dd7:d8a55615aa1346e670120d0500a12618
+#EXTINF:-1 group-title="Movie" tvg-id="Hbo Signature Max" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png",Hbo Signature Max
+http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e47635be214835b58780cfe1b842fa1c:9454fbf8f25234282406ffa0c5ea7934
+#EXTINF:-1 group-title="Movie" tvg-id="Hbo HITS Max" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png",Hbo HITS Max
+http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+
