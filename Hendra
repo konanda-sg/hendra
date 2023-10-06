@@ -915,15 +915,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="NationalGeographicWildIndonesia.id" tvg-logo="https://i.imgur.com/AMyifk1.png" group-title="Knowledge",National Geographic Wild
-#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6503
-http://cxgxceu.leadcool.xyz:80/7415371205/4181361878/174222
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6503
+#http://cxgxceu.leadcool.xyz:80/7415371205/4181361878/174222
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="NationalGeographicIndonesia.id" tvg-logo="https://i.imgur.com/O13uMvJ.png" group-title="Knowledge",National Geographic
 #https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-#http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1101
-http://cxgxceu.leadcool.xyz:80/7415371205/4181361878/174221
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1101
+#http://cxgxceu.leadcool.xyz:80/7415371205/4181361878/174221
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
