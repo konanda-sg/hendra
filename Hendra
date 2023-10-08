@@ -489,6 +489,12 @@ https://h1.intechmedia.net/intech/ch20.m3u8
 
 -----------  kidsss -----------
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://i.imgur.com/5vAC8xF.png",Boonie Tv Cubmu
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6858afb4c71018b03b1d9dd1523/manifest.mpd
+
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Kids",Mentari TV
 http://103.166.27.2:800/play/a018
 
