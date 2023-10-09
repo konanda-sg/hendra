@@ -121,3 +121,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696593608/ei/a
 #KODIPROP:inputstream.adaptive.license_key=159ea156d5c235dd86f97a44a45f2b95:e679737384d3d883af8208c2188185d2
 #EXTINF:-1 group-title="Movie" tvg-id="Cinemax Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png",Ftv
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+#EXTINF:-1 group-title="Movie" tvg-id="Cinemax Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png",Ftv
+https://failoverstarhub.akamaized.net/bpk-tv/HubSensasiHD/output/manifest.mpd
+
