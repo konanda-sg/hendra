@@ -1,0 +1,74 @@
+#!/usr/bin/env python3
+from base64 import b64decode, b64encode
+import binascii
+import requests
+import json
+import re
+import argparse
+
+parser=argparse.ArgumentParser()
+parser.add_argument('target',help='url/json',nargs='?')
+urls=parser.add_argument_group('Get CK from URL')
+urls.add_argument('-a','--user-agent',help='user-agent')
+urls.add_argument('-r','--referer',help='url-referer')
+urls.add_argument('-m','--request-method',help='method')
+
+args=parser.parse_args()
+ch=requests.Session()
+
+def base64_encode(string):
+	return b64encode(string).decode()
+
+def base64_decode(base64):
+	[eq,loop]=['',0]
+	while True:
+		try:
+			result=b64decode(base64+eq)
+			return result
+		except binascii.Error:
+			eq+='='
+			loop+=1
+			if loop>=10:
+				return False
+
+def is_json(jsons):
+	try:
+	   json.loads(jsons)
+	   return True
+	except:
+	   return False
+
+if not args.target:
+	raise Exception('No source inserted')
+elif is_json(args.target):
+	source='JSON:\t\t%s' % args.target
+	ck=args.target
+else:
+	headers={}
+	source='URL:\t\t%s\nUser-Agent:\t%s\nReferer:\t%s' % (args.target, args.user_agent, args.referer)
+	if args.user_agent:
+		headers['User-Agent']=args.user_agent
+	if args.referer:
+		headers['Referer']=args.Referer
+	ch.headers.update(headers)
+	if args.request_method == 'GET' or not args.request_method:
+		ck=ch.get(args.target).content.decode()
+	elif args.request_method == 'POST':
+		ck=ch.post(args.target).content.decode()
+	else:
+		raise Exception('Request method not allowed')
+
+try:
+	ck=json.loads(ck)
+except:
+	regex=re.compile(r'\s+(?P<data>{.*})',re.S)
+	ck=json.loads(''.join(regex.findall(ck)))
+
+print('%s\nResult:' % source, end='')
+for keys in ck['keys']:
+	print('\t\t%s:%s' % (
+	  base64_decode(keys['kid']).hex(),
+	  base64_decode(keys['k']).hex()
+	))
+
+ch.close()
