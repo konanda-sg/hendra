@@ -127,8 +127,8 @@ http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&u
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="TV Indo",Mentari TV
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
 #http://103.166.27.2:800/play/a018
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
-
+#http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298546
 ----- Rtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
