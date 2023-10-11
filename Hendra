@@ -612,10 +612,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f218
 https://i.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQYpQdF/download-14-modified.png" group-title="Kids",Antiks 
-#https://tv.mrians.my.id/itil/antiks/1/wvzkg
+https://live-yt.streamingastv.workers.dev/live/72i29Gls0GY/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TWcjyLv/unnamed-4.png" group-title="Kids",BabyBus 
-#https://tv.mrians.my.id/itil/babybus/1/wvzkg
+https://live-yt.streamingastv.workers.dev/live/v79OiSSI2o0/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dM4XS8S/download-13-modified.png" group-title="Kids",Larva 
 #http://terraserver.cc:8080/FquXLnEnzO/1Y86IE4hN2/386
@@ -654,11 +654,28 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6395
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2303
 
 #EXTINF:-1 tvg-logo="https://id-live-01.slatic.net/p/26a175c14fa433a390b4b12bec692f4b.png" group-title="Kids", Tayo TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+#https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://id-live-01.slatic.net/p/26a175c14fa433a390b4b12bec692f4b.png" group-title="Kids", TAYO TV
+https://live-yt.streamingastv.workers.dev/live/lw-oXpGAR8Q/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png" group-title="Kids", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
+EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/sOlYdRDYciE/maxresdefault_live.jpg",LIVE 🥳 Tatty dan Misifu 
+https://live-yt.streamingastv.workers.dev/live/sOlYdRDYciE/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/8tMcuM7Te8U/maxresdefault_live.jpg",Diva The Series
+https://live-yt.streamingastv.workers.dev/live/tlg9uI0qF7Y/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/Y7YCU32Pz-w/maxresdefault_live.jpg",🔴 Live | Bing: Episode Lengkap | Bing Bahasa Indonesia
+https://live-yt.streamingastv.workers.dev/live/Y7YCU32Pz-w/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/EExgaFKEXAU/maxresdefault_live.jpg",🔴Little Angel Indonesia
+https://live-yt.streamingastv.workers.dev/live/EExgaFKEXAU/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/X92lb2EwrjM/maxresdefault_live.jpg",Booba LIVE 🔴 Üst üste en iyi diziler 💚 Super Toons TV Animasyon
+https://live-yt.streamingastv.workers.dev/live/X92lb2EwrjM/master.m3u8?|referer=https://t.me/astvstreaming
 
 -------- Movie ------
 
