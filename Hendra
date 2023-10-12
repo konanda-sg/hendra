@@ -58,9 +58,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTVLCOPT:url|referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="TV Indo backup" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://apel-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 ----- Mnctv
 
