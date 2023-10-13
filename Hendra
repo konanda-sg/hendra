@@ -697,6 +697,10 @@ https://live-yt.streamingastv.workers.dev/live/EExgaFKEXAU/master.m3u8?|referer=
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/X92lb2EwrjM/maxresdefault_live.jpg",Booba LIVE 🔴 Üst üste en iyi diziler 💚 Super Toons TV Animasyon
 https://live-yt.streamingastv.workers.dev/live/X92lb2EwrjM/master.m3u8?|referer=https://t.me/astvstreaming
 
+EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/iOn0He_ihr4/maxresdefault_live.jpg",🔴  Jungle Beat LIVE! | The Adventures of Munki & Trunk | Kids Cartoon 2023
+https://live-yt.streamingastv.workers.dev/live/iOn0He_ihr4/master.m3u8?|referer=https://t.me/astvstreaming
+
+
 -------- Movie ------
 
 
@@ -1087,43 +1091,43 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="News" tvg-id="ABCAustralia.id" tvg-logo="https://static.mncnow.id/images/channel/4462f88d/6981_r32.jpg" ,ABC Australia
+#EXTINF:-1 group-title="News" tvg-id="ABCAustralia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" ,ABC Australia
 https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
+#EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera
 https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="News" tvg-id="IDX.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
+#EXTINF:-1 group-title="News" tvg-id="IDX.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png",IDX
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg" group-title="News",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-name="" tvg-id="FOXNews" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="News",FOX News
+#EXTINF:-1 tvg-name="" tvg-id="FOXNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="News",FOX News
 https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
+#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW
 https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1178,10 +1182,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://static.mncnow.id/images/channel/93861924/4ebd_r32.jpg" group-title="News",TV 5 Monde
-https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="News",Rai Italia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch258)/index.m3u8
+#https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 
 -------------  Sport  -------------
