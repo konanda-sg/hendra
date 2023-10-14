@@ -278,6 +278,13 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="TV Indo", Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
+------- KHAZANAH------
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" tvg-name="TV9" group-title="TV Indo",KHAZANAH
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
 ---- Citra Dangdut
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVx6qwIqQ-igfjbezeNKn_0V3QIHFRKwS33g&s" group-title="TV Indo", Citra Dangdut
@@ -327,7 +334,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298526
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="TV Indo",Etv Bioskop 02
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298527
+#http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298527
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="TV Indo",Etv Bioskop 03
 #http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298528
@@ -522,6 +529,9 @@ https://h1.intechmedia.net/intech/ch20.m3u8
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Kids",Mentari TV
 http://103.166.27.2:800/play/a018
+
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/IndiKids.png" group-title="Kids",IndiKid TV
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
 #EXTINF:-1 tvg-id="MrBean" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Cartoon-Mr.-Bean-Transparent.png" group-title="Kids",Mr bean
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
