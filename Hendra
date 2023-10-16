@@ -11,7 +11,7 @@ https://iptv.skuy.co.id:2083/Mentari_TV/mpegts?token=3Dz3TaUf9K-Zu1
 --- Kompas tv
 
 #EXTINF:-1 group-title="TV Indo backup" tvg-id="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png",KOMPAS TV HD
-https://iptv.skuy.co.id:2083/KOMPAS/mpegts?token=3Dz3TaUf9K-Zu1
+#https://iptv.skuy.co.id:2083/KOMPAS/mpegts?token=3Dz3TaUf9K-Zu1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png", group-title="TV Indo backup",KOMPASTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
