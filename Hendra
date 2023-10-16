@@ -130,7 +130,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 ----- Gtv
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="TV Indo backup",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="TV Indo backup",GTV HD
 https://iptv.skuy.co.id:2083/GTV/mpegts?token=3Dz3TaUf9K-Zu1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
