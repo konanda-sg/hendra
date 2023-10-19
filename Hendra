@@ -6,7 +6,7 @@
 -----Mentari----
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="TV Indo",Mentari TV HD
-https://iptv.skuy.co.id:2083/Mentari_TV/mpegts?token=3Dz3TaUf9K-Zu1
+#https://iptv.skuy.co.id:2083/Mentari_TV/mpegts?token=3Dz3TaUf9K-Zu1
 
 --- Kompas tv
 
@@ -212,7 +212,10 @@ http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&u
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
 #http://103.166.27.2:800/play/a018
 #http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298546
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298546
+#http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298546
+https://iptvme.xyz:443/vid/hls.m3u8?id=8237
+
+
 ----- Rtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -618,7 +621,7 @@ https://h1.intechmedia.net/intech/ch20.m3u8
 #https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6858afb4c71018b03bb78c91525/manifest.mpd
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="Kids",Mentari TV
-http://103.166.27.2:800/play/a018
+https://iptvme.xyz:443/vid/hls.m3u8?id=8237
 
 #EXTINF:-1 tvg-id="indikid.id" tvg-logo="https://pbs.twimg.com/profile_images/1684419191473082369/2EUZPogQ_400x400.jpg" group-title="Kids",IndiKid TV
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
