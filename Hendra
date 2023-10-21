@@ -41,7 +41,10 @@ https://live-yt.streamingastv.workers.dev/live/DeCmhwJqBhU/master.m3u8?|referer=
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Ybw-QJyApUXI9KLbaXKsS0PbQXvykcFe1Q&usqp=CAU" group-title="Youtube",Shaun the Sheep Live 🔴
-https://youtube-hls-m3u8.nixiehai263.repl.co/video/5g4LKPv4KeE.m3u8
+https://live-yt.streamingastv.workers.dev/live/5g4LKPv4KeE/master.m3u8?|referer=https://t.me/astvstreaming
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUf6TPnI5vaGKlqqILj2h_UT673DAdUQsOXA&usqp=CAU" group-title="Youtube",Among Us Live 🔴
 https://live-yt.streamingastv.workers.dev/live/MQxqx971MZk/master.m3u8?|referer=https://t.me/astvstreaming
@@ -77,6 +80,15 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/26810
 
 
 ============ Backup ==============
+
+========== Live Sunah ==========
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://khbofficial.com/assets/khb_logo.png" group-title="Youtube",KHB Live 🔴
+https://live-yt.streamingastv.workers.dev/live/-p74DE68G78/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc03tBk5XObiv2cq8_pienVsw_iHS29ikHkQUSPkZERNDOwmjCIZ4Vtnsm&s=10" group-title="Youtube",SRB Live 🔴
+https://live-yt.streamingastv.workers.dev/live/IDOn6KHxTrc/master.m3u8?|referer=https://t.me/astvstreaming
 
 
 
