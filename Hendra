@@ -3,11 +3,11 @@
 ======== live YouTube  =============
 
 
-EXTINF:-1 group-title="Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGwnuw_V0IGmv7aO2a05R-wlMgPWcYRunpw&usqp=CAU",Tatty Live 🔴
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGwnuw_V0IGmv7aO2a05R-wlMgPWcYRunpw&usqp=CAU",Tatty Live 🔴
 https://live-yt.streamingastv.workers.dev/live/rNU16-4oEmo/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUq0bsQHag5Bx-PBc8wl2THOALfHAUOC4VKw&usqp=CAU",Diva live 🔴
-https://live-yt.streamingastv.workers.dev/live/tlg9uI0qF7Y/master.m3u8?|referer=https://t.me/astvstreaming
+https://live-yt.streamingastv.workers.dev/live/OkYuxacgCNM/master.m3u8?|referer=https://t.me/astvstreaming.
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEngDdblL48x08KCPHOfAWnSpWQBfDgOhD6w&usqp=CAU",Bing Live 🔴
 https://live-yt.streamingastv.workers.dev/live/Y7YCU32Pz-w/master.m3u8?|referer=https://t.me/astvstreaming
@@ -33,8 +33,21 @@ https://live-yt.streamingastv.workers.dev/live/q3edCvRw7cU/master.m3u8?|referer=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dM4XS8S/download-13-modified.png" group-title="Youtube",Larva Live 🔴
 https://live-yt.streamingastv.workers.dev/live/13YobiCh5BA/master.m3u8?|referer=https://t.me/astvstreaming
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYg37t-DjB03ll7lyNKUY-Oay-TQfZWGPaOg&usqp=CAU" group-title="Youtube",Shaun the Sheep Live 🔴
+https://live-yt.streamingastv.workers.dev/live/5g4LKPv4KeE/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUf6TPnI5vaGKlqqILj2h_UT673DAdUQsOXA&usqp=CAU" group-title="Youtube",Among Us Live 🔴
+https://live-yt.streamingastv.workers.dev/live/MQxqx971MZk/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR672-_CAs9JdJa4t7meK7ntciCH0L2QWMnjA&usqp=CAU" group-title="Youtube",Little Pony Live 🔴
+https://live-yt.streamingastv.workers.dev/live/Ulm_bQVhXDU/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZeM-BsWHU_RYFsBK63qrDyh0lnqebrDbYQ&usqp=CAU" group-title="Youtube",SpongeBob Live 🔴
+https://live-yt.streamingastv.workers.dev/live/BXWNnEiTR5g/master.m3u8?|referer=https://t.me/astvstreaming
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3XMWSp/download-41-modified.png" group-title="Youtube",Talking Tom Live 🔴
 #https://tv.mrians.my.id/itil/talking_tom/1/wvzkg
+https://live-yt.streamingastv.workers.dev/live/iwNMxMIpLw4/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 tvg-id="MrBean" tvg-logo="https://www.pngall.com/wp-content/uploads/5/Cartoon-Mr.-Bean-Transparent.png" group-title="Youtube",Mr bean Live 🔴
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298498
@@ -1499,7 +1512,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE Bola, Event 1
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="LIVE Bola", Event 1
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
