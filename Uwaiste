@@ -114,7 +114,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696593393/ei/k
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696593495/ei/96EfZbbCK52s9fwP2OicmAE/ip/180.247.47.11/id/kOJAzEHj56w.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5-9med0OF6xpdMYM8UUZfFZ7NF0Kh4YCEAVw1jtTj_Euwhw820/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIhAKCzouJXwb1OdTqJWEUjfhLs8yRpjG3bnSYyh9xOPxpjAh9WpgUuUoOpOAz6MwqvwZClrF93YpenjBCfr11lyQay/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="YOUTUBE", test
-https://www.youtube.com/live/pqPIjxwu_g8.m3u8
+#https://www.youtube.com/live/pqPIjxwu_g8.m3u8
 https://youtube-hls-m3u8.nixiehai263.repl.co/video/pqPIjxwu_g8.m3u8
 
 
