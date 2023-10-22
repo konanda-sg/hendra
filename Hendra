@@ -136,7 +136,7 @@ https://live-yt.streamingastv.workers.dev/live/erp3__q5UCs/master.m3u8?|referer=
 --- Kompas tv
 
 #EXTINF:-1 group-title="TV backup" tvg-id="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png",KOMPAS TV HD
-#https://iptv.skuy.co.id:2083/KOMPAS/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/KOMPAS/mpegts?token=LiFbfy8hRlMhj2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png", group-title="Tv backup",KOMPASTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
@@ -144,18 +144,18 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u
 --- TV one
 
 #EXTINF:-1 group-title="TVbackup" tvg-id="TVONE" tvg-logo="https://s.id/1d0FV",TVONE HD
-#https://iptv.skuy.co.id:2083/TV_One/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/TV_One/mpegts?token=LiFbfy8hRlMhj2
 
 ------ CNN INdo ----
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.ibb.co/c3dqtrG/Logo-CNN-Indonesia-Peta-Indonesia-modified.png" group-title="TV backup",CNN Indonesia
-#https://iptv.skuy.co.id:2083/CNN_Indonesia/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/CNN_Indonesia/mpegts?token=LiFbfy8hRlMhj2
 
 
 --- Metro tv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1280px-LogoMetroTVsince2010.svg.png", group-title="TV backup",METROTV HD
-#https://iptv.skuy.co.id:2083/Metro_TV/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/Metro_TV/mpegts?token=LiFbfy8hRlMhj2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1280px-LogoMetroTVsince2010.svg.png", group-title="TV backup",METROTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
@@ -169,7 +169,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 -----Rtv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3MDKtZ.png" group-title="TV backup", RTV HD
-#https://iptv.skuy.co.id:2083/RTV/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/RTV/mpegts?token=LiFbfy8hRlMhj2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3MDKtZ.png" group-title="TV backup", RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
@@ -177,7 +177,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 ----transtv
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png", group-title="TV backup",TRANSTV HD
-#https://iptv.skuy.co.id:2083/Trans_TV/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/Trans_TV/mpegts?token=LiFbfy8hRlMhj2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -191,7 +191,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u
 ----Trans7
 
 #EXTINF:-1 tvg-logo="https://s.id/1d0F6", group-title="TV backup",TRANS7 HD
-#https://iptv.skuy.co.id:2083/Trans_7/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/Trans_7/mpegts?token=LiFbfy8hRlMhj2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -205,7 +205,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u
 ----- INews
 
 #EXTINF:-1 group-title="TV backup" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews HD
-#https://iptv.skuy.co.id:2083/iNews/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/iNews/mpegts?token=LiFbfy8hRlMhj2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -215,7 +215,7 @@ https://apel-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 ----- Mnctv
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="TV backup",MNC TV HD
-#https://iptv.skuy.co.id:2083/MNC/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/MNC/mpegts?token=LiFbfy8hRlMhj2
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -226,7 +226,7 @@ https://apel-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 ---- SCTV-----
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="TV backup",SCTV HD
-#https://iptv.skuy.co.id:2083/SCTV/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/SCTV/mpegts?token=LiFbfy8hRlMhj2
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="TV backup",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -234,7 +234,7 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 ---- Indosiar
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="TV backup",Indosiar HD
-#https://iptv.skuy.co.id:2083/Indosiar/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/Indosiar/mpegts?token=LiFbfy8hRlMhj2
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="TV backup",Indosiar
 http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
@@ -242,7 +242,7 @@ http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/
 --- Net
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="TV backup" tvg-id="NET.id" tvg-name="NET TV", NET. HD
-#https://iptv.skuy.co.id:2083/Net_TV/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/Net_TV/mpegts?token=LiFbfy8hRlMhj2
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -253,7 +253,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 ----- Gtv
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="TV backup",GTV HD
-#https://iptv.skuy.co.id:2083/GTV/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/GTV/mpegts?token=LiFbfy8hRlMhj2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
@@ -264,7 +264,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 --- Rcti
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="TV backup",RCTI HD
-#https://iptv.skuy.co.id:2083/RCTI/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/RCTI/mpegts?token=LiFbfy8hRlMhj2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
@@ -275,7 +275,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 ---- Mogi tv
 
 #EXTINF:-1 group-title="TV backup" tvg-id="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png",MOJI HD
-#https://iptv.skuy.co.id:2083/Moji/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/Moji/mpegts?token=LiFbfy8hRlMhj2
 
 #EXTINF:-1 group-title="TV backup" tvg-id="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/400px-Moji_blue.svg.png",MOJI
 #https://kametv.my.id/putar/digital/moji.php
@@ -285,13 +285,13 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m
 ------VTV------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="TV backup" tvg-id="TVRI.id" tvg-name="TVRI", VTV HD
-#https://iptv.skuy.co.id:2083/VTV/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/VTV/mpegts?token=LiFbfy8hRlMhj2
 
 
 -----  Tvri
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Logo_TVRI.png" group-title="TV backup" tvg-id="TVRI.id" tvg-name="TVRI", TVRI HD
-#https://iptv.skuy.co.id:2083/TVRI/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/TVRI/mpegts?token=LiFbfy8hRlMhj2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -300,17 +300,17 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Logo_TVRI.png" group-title="TV backup" tvg-id="TVRI.id" tvg-name="TVRI", TVRI Sport HD
-#https://iptv.skuy.co.id:2083/TVRI_Sport/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/TVRI_Sport/mpegts?token=LiFbfy8hRlMhj2
 
 ------ BN Chanel-----
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="TV backup" tvg-id="TVRI.id" tvg-name="TVRI", BN Chanel HD
-#https://iptv.skuy.co.id:2083/BN_Channel/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/BN_Channel/mpegts?token=LiFbfy8hRlMhj2
 
 -------  Magna Tv -----
 
 EXTINF:-1 tvg-id="Magna.id" tvg-logo="https://i.ibb.co/pZWS87T/7d6bf5-modified.png" group-title="TV backup",Magna Channel
-#https://iptv.skuy.co.id:2083/Magna_TV/mpegts?token=3Dz3TaUf9K-Zu1
+https://iptv.skuy.co.id:2083/Magna_TV/mpegts?token=LiFbfy8hRlMhj2
 
 
 
