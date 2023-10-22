@@ -143,7 +143,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u
 
 --- TV one
 
-#EXTINF:-1 group-title="TVbackup" tvg-id="TVONE" tvg-logo="https://s.id/1d0FV",TVONE HD
+#EXTINF:-1 group-title="TV backup" tvg-id="TVONE" tvg-logo="https://s.id/1d0FV",TVONE HD
 https://iptv.skuy.co.id:2083/TV_One/mpegts?token=LiFbfy8hRlMhj2
 
 ------ CNN INdo ----
