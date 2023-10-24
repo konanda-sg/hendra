@@ -1,26 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ======== live Kids  =============
 
 
@@ -253,7 +232,7 @@ https://apel-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #https://iptv.skuy.co.id:2083/sctv/mpegts?token=LiFbfy8hRlMhj2
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="TV backup",SCTV
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com/
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 
@@ -263,7 +242,7 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #https://iptv.skuy.co.id:2083/indosiar/mpegts?token=LiFbfy8hRlMhj2
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="TV backup",Indosiar
-#EXTVLCOPT:http-referrer=http://www.firstmedia.com/
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
 --- Net
