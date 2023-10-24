@@ -245,13 +245,14 @@ http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/
 --- Net
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="TV backup" tvg-id="NET.id" tvg-name="NET TV", NET. HD
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/80292
 #https://iptv.skuy.co.id:2083/net_tv/mpegts?token=LiFbfy8hRlMhj2
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="TV backup" tvg-id="NET.id" tvg-name="NET TV", NET TV
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 ----- Gtv
 
@@ -430,13 +431,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 --- Indosiar
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="TV Indo",SCTV
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="TV Indo",Indosiar
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 ----- SCTV
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="TV Indo",SCTV
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="TV Indo",SCTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 ----  Antv
 
