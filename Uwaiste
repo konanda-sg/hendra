@@ -140,6 +140,28 @@ https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4
 
 
 
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/seatoday/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/dwtv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvri/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+#EXTINF:-1 group-title="Movie" tvg-id="Hbo Signature Max" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png",Hbo Signature akamize
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+
+
+
+
 
 
 
