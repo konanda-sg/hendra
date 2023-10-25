@@ -371,22 +371,27 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u
 ---- Citra Entertainment
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="TV Indo", Citra Entertainment
-http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298520
 
 ----- Citra Bioskop
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="TV Indo", Citra Bioskop
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298519
+
 
 -----  Citra Drama
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="TV Indo", Citra Drama
-http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/264748
 
 ---- Citra Dangdut
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVx6qwIqQ-igfjbezeNKn_0V3QIHFRKwS33g&s" group-title="TV Indo", Citra Dangdut
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/247446
 
 ------- KHAZANAH------
 
