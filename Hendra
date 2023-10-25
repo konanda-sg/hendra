@@ -1,4 +1,6 @@
- 
+
+#EXTM3U billed-msg="❤GP Family Gurun Panjang❤"
+
 ============ Backup ==============
 
 
@@ -793,7 +795,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298501
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/26810
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGwnuw_V0IGmv7aO2a05R-wlMgPWcYRunpw&usqp=CAU",Tatty Live 🔴
-https://live-yt.streamingastv.workers.dev/live/rNU16-4oEmo/master.m3u8?|referer=https://t.me/astvstreaming
+https://live-yt.streamingastv.workers.dev/live/t5VhKLNmRKo/master.m3u8?|referer=https://t.me/astvstreaming
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUq0bsQHag5Bx-PBc8wl2THOALfHAUOC4VKw&usqp=CAU",Diva live 🔴
 https://live-yt.streamingastv.workers.dev/live/OkYuxacgCNM/master.m3u8?|referer=https://t.me/astvstreaming.
@@ -802,7 +805,8 @@ https://live-yt.streamingastv.workers.dev/live/OkYuxacgCNM/master.m3u8?|referer=
 https://live-yt.streamingastv.workers.dev/live/Y7YCU32Pz-w/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcFXx9vYQyRnQHV3GP22fd39-1uK1sEZWzvw&usqp=CAU" group-title="Kids",PepPa Pig Live 🔴
-https://live-yt.streamingastv.workers.dev/live/qWZWw55xlsI/master.m3u8?|referer=https://t.me/astvstreaming
+https://live-yt.streamingastv.workers.dev/live/A1YGLnEwLW0/master.m3u8?|referer=https://t.me/astvstreaming
+
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.picix.workers.dev/
