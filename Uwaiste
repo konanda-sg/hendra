@@ -206,14 +206,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvri/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
 #EXTINF:-1 group-title="TV Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",Indosiar
 https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key=73637476303030303030303030303030:6a22f33ee77fab96b318fe3dd7e1335d
 #EXTINF:-1 group-title="TV Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png",SCTV
 https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 
@@ -221,8 +221,26 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="TV Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png",SCTV
-https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
+#EXTINF:-1 group-title="TV Indo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1Tbc9fICCnr4e5A6DL0Lyw071J8_W0KULQ&usqp=CAU",flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="TV Indo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1Tbc9fICCnr4e5A6DL0Lyw071J8_W0KULQ&usqp=CAU",lingua
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
+#EXTINF:-1 group-title="TV Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",bioskopindonesia
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+
+===========  indekos Movie  ========
+
 
 
 
@@ -235,14 +253,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
+
 https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/fashiontv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
@@ -261,7 +279,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
 https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd
