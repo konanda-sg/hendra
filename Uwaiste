@@ -34,7 +34,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ch-number="92",Ccm4
-http://op-group1-swiftservehd-1.dens.tv/s/s03/live.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
 
 #http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=SCTV
 
