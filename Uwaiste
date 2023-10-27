@@ -15,7 +15,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ch-number="92",Ccm
-https://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://indihome.co.id/
 
