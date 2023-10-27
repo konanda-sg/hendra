@@ -20,32 +20,26 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ch-number="92",Ccm2
+#EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Ccm2
 http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ch-number="92",Ccm3
+#EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Ccm3
 http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",sctv
 http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",indosiar
 https://op-group1-swiftservehd-1.dens.tv/s/s04/index.m3u8
-
-
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
