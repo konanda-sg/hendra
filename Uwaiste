@@ -14,7 +14,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 #EXTINF:-1 group-title="Test1" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png",TransTV
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ch-number="92",Citra
+https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=antv
 
 #EXTVLCOPT:http-referrer=https://indihome.co.id/
 
