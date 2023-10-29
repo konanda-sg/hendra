@@ -31,22 +31,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",sctv
-http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",indosiar
-https://op-group1-swiftservehd-1.dens.tv/s/s04/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="INFO" group-title="test1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o8NGrMBFcHPiqrDuiwDDS4O_RIwrcRUZdw&usqp=CAU",live
-http://op-group1-swiftservehd-1.dens.tv/s/s100/live.m3u8
-
+========== Hbo cacing   ===============
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -77,16 +62,6 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTINF:-1 group-title="Coba" tvg-id="MENTARI TV" tvg-logo="https://i.imgur.com/BgIUxdy.png",cinemax cacing
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/CinemachiXtra.png" group-title="Movie",Cinemachi Xtra 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/clearkey/index.php?id=Cinemachi-Xtra-HD 
-https://av-live-cdn-01.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 tvg-id="CinemachiXtra" group-title="Movies1" ch-number="6" tvg-logo="https://aqfadtv.xyz/logos/CinemachiXtra.png",Cinemachi Xtra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.thomasandi.my.id/clearkey/index.php?id=Cinemachi-Xtra-HD
-https://av-live-cdn-01.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -96,96 +71,8 @@ https://av-live-cdn-01.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/108/108.mpd
 
 
-#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ch-number="92",Mentari TV 
-#https://cdn.thomasandi.my.id/coba/vid/play.m3u8?id=8237&type=hls&token=IGVzecI0d4EWyI1WefTUWWekYnDyyln09XN2ugqEXscg31nljodmdDMvP6=WI9TIN
-#https://api.thomasandi.my.id/api/usi/hls.mpd?id=mentaritv
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298546
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52883505c5eb354db8fd8a81e85ee675:01e87176a59e6f795304100b8609190a
-#EXTINF:-1 group-title="Movie" tvg-id="Cinemax Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png",Cinemax Max
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad9bb9f4c553adbb9046043dc4f4a7e:e33f6abd154ff14a696ef1c1a7a0b496
-#EXTINF:-1 group-title="Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",Hbo Max
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-https://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02cb3453a0313c5fb8f31e9e3f0ba979:90c15b569eb7f84efa56feb2d094151a
-#EXTINF:-1 group-title="Movie" tvg-id="Hbo family Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png",Hbo Family Max
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b113a1f6f4a35cc87344dad432a0dd7:d8a55615aa1346e670120d0500a12618
-#EXTINF:-1 group-title="Movie" tvg-id="Hbo Signature Max" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png",Hbo Signature Max
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47635be214835b58780cfe1b842fa1c:9454fbf8f25234282406ffa0c5ea7934
-#EXTINF:-1 group-title="Movie" tvg-id="Hbo HITS Max" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png",Hbo HITS Max
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cinemax.openwindows037.workers.dev/
-EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="rrr",Cinemax
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="rrr",Cinemax
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#LIVE YOUTUBE", RELIGI - SRB TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696592892/ei/nJ8fZbCBIrrLjuMPoJeTyAU/ip/180.247.47.11/id/IDOn6KHxTrc.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3Isk9R5q2GhkrwcqSXJ7XY0_RY3lfo633lvpPTxz1ry69no2XQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgcJMxeLEqbwLL6aHXVwuyt2EIAnf65jWJ0UHytBNpj_MCIG_XDrDpPzdspnGvK_esZXabafbaf7qK2UQzcja7TrBb/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#LIVE YOUTUBE", RELIGI - KHB TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696593154/ei/oqAfZdWaIca-4t4PgcO42A4/ip/180.247.47.11/id/-p74DE68G78.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f1qkueLl9IIl0cRBpQcHuDDzKn2WXCWlXEgPoJppIiCUiOTnhso/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAPZYo8SraDJZ5ZFvZkw9t8kS6ObhExMM58dKg3_XnyizAiAfXwI-EQTerNBTiqDCxpH5vCWAe-u7iFpstFrYKslTJw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#LIVE YOUTUBE", RELIGI - MEDS TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696593241/ei/-aAfZYe0Be6l3LUP15mwwAQ/ip/180.247.47.11/id/zEFjjZkaTIk.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f_xaTekR6ego1-9vBXJhzqCnQQ0uPfi2s7rWqBxN0xxd60JJmKo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKjmw1qgpAodM193IaA-xIpG83PXoItb9yJ_0AqKzoHoAiEArq0yeEEWey7nPp2ty5UnVx0AWAoUiWJYtmwvARdMjj8%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#LIVE YOUTUBE", OLAHRAGA - KEJURNAS BASKET PON
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696593037/ei/LaAfZdu6M8Khg8UP_7-fsA8/ip/180.247.47.11/id/NpEsf5_d4mQ.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5RVA6QanYeTepye8vQ4GSdphm-Zp_EYWUUH2ueSe37nwBV5NXE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgCrnKc3KOLsrRi8OCtpWKp5NS_2o34iH-ZQh9gRlCti8CIQC6HR9nqMkQiMSS9P8YpvM09APlXSbPdLxnDt8KKkVaJw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#LIVE YOUTUBE", MUSIC - DJ MUSIC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696593393/ei/kaEfZaKFMo264t4PofOs4AY/ip/180.247.47.11/id/XditZIaxnLg.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f_PTFoqO9xXgMJOiGh7BFf_WnYoiK0YOzsmjDy4VHs5f-C3yJa4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOulXEdHKK8W8_8elWIBvfl9EprMQ9H91rnlnaeuMqRWAiEAndQM8TVwfHg5Ul_8dPa28X-BsduZbyvVcZWmWt1RlXg%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#LIVE YOUTUBE", MUSIC - DJ MUSIC 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696593495/ei/96EfZbbCK52s9fwP2OicmAE/ip/180.247.47.11/id/kOJAzEHj56w.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5-9med0OF6xpdMYM8UUZfFZ7NF0Kh4YCEAVw1jtTj_Euwhw820/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIhAKCzouJXwb1OdTqJWEUjfhLs8yRpjG3bnSYyh9xOPxpjAh9WpgUuUoOpOAz6MwqvwZClrF93YpenjBCfr11lyQay/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="YOUTUBE", test
-#https://www.youtube.com/live/pqPIjxwu_g8.m3u8
-https://youtube-hls-m3u8.nixiehai263.repl.co/video/pqPIjxwu_g8.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="YOUTUBE", test 1
-https://live-yt.streamingastv.workers.dev/live/pqPIjxwu_g8/master.m3u8?|referer=https://t.me/astvstreaming
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="YOUTUBE", test 2
-http://densx-b56a69c98040.herokuapp.com/api.php?id=13
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=159ea156d5c235dd86f97a44a45f2b95:e679737384d3d883af8208c2188185d2
-#EXTINF:-1 group-title="Movie" tvg-id="Cinemax Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png",Ftv
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-#EXTINF:-1 group-title="Movie" tvg-id="Cinemax Max" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png",Ftv
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7celed23d82d9/index.mpd
 
 
 
